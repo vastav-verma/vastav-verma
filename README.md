@@ -150,8 +150,6 @@ Organized generative AI & software technology workshops for 100+ students; colla
 
 ## 🚀 Featured Projects
 
-> Update each link once pushed to match your real repo names.
-
 | Project | What it does |
 |---|---|
 | 🎯 [AI-Powered Interview Preparation Platform](https://github.com/vastav-verma/Interview-AI) · [Live Demo](https://interview-ai-nu-tan.vercel.app) | Full-stack MERN app for AI-driven interview prep using resume & job-description inputs, with JWT auth and an AI resume-optimization module |
