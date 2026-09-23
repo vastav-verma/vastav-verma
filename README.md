@@ -2,160 +2,274 @@
 
 <img src="assets/banner.svg" width="100%"/>
 
-<br/>
+<br/><br/>
 
-# Hi, I'm Vastav Verma 👋
-
-### Software Engineer · AI/ML Engineer · Full-Stack Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=760\&lines=Software+Engineer;SDE+%7C+Data+Scientist+%7C+AI%2FML+Engineer;MERN+Stack+%7C+C%2B%2B+%7C+Python+%7C+LangChain;Ex-AI+Engineer+Intern+%40+CBSOT;9.22+CGPA+%7C+B.Tech+CSE)](https://git.io/typing-svg)
 
 <p>
-Building <b>scalable software, AI-powered applications & intelligent developer tools.</b>
+  <img src="https://komarev.com/ghpvc/?username=vastav-verma&label=Profile%20Views&color=58a6ff&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/vastav-verma?label=Followers&style=for-the-badge&color=a371f7"/>
+  <img src="https://img.shields.io/badge/CGPA-9.22-2ea44f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-Ludhiana%2C%20Punjab%2C%20India-ff7b54?style=for-the-badge"/>
 </p>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=vastav-verma&label=PROFILE+VIEWS&color=58A6FF&style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/vastav-verma?label=FOLLOWERS&style=flat-square&color=a371f7"/>
-&nbsp;
-<img src="https://img.shields.io/badge/CGPA-9.22-2ea44f?style=flat-square"/>
-</p>
-
-<p>
-<a href="mailto:mamtavastavverma@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/vastav-verma/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/vastav-verma">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="mailto:mamtavastavverma@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/vastav-verma/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20"/>
+  </a>&nbsp;
+  <a href="https://github.com/vastav-verma">
+    <img src="https://cdn.simpleicons.org/github/181717" width="20"/>
+  </a>
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 Who I Am
 
-I'm a **Computer Science undergraduate and Software Engineer** focused on building reliable, user-facing software and AI-powered systems.
+I'm a **Software Engineer** focused on building **scalable applications, backend systems, REST APIs, and AI-powered software solutions**.
 
-My work spans **DSA, backend engineering, MERN development, Machine Learning, Deep Learning, and Generative AI**. I enjoy taking an idea from architecture and APIs to deployment and a usable product.
+My technical interests span **Software Engineering, DSA, MERN development, Machine Learning, Deep Learning, Generative AI, and Agentic AI** — allowing me to work across both traditional software systems and intelligent applications.
 
-* 🎓 B.Tech CSE — PCTE Group of Institutes
-* 📈 **9.22 CGPA**
-* 💻 Strong interest in **Software Engineering & Backend Development**
-* 🤖 Hands-on experience in **AI/ML & Agentic AI**
-* 🧩 Experience with **MERN, REST APIs, SQL, MongoDB & JWT**
-* 🏆 ISTE Best Student Award 2026
-* 🚀 Open to **Software Engineering, SDE, AI/ML & Data roles**
+Based in **Ludhiana, Punjab, India**, I'm currently pursuing my **B.Tech in Computer Science & Engineering (2023–2027)** with a **9.22 CGPA**.
+
+I've gained industry experience through roles at **Coding Blocks School of Technology, Sacred Mind Infotech, and Ducat India**, along with technical initiatives as a **Google Gemini Student Ambassador**.
+
+Currently open to **Software Engineering / SDE, AI/ML, Data Science, internships, and freelance opportunities.**
+
+<br>
 
 ---
 
-## 🧠 What I Work With
+## 🧩 Areas of Expertise
 
 <table width="100%">
 <tr>
 
-<td width="25%" align="center">
+<td width="20%" align="center">
 
-### 💻 Software Engineering
+**👨‍💻**<br/>
+**Software Engineer**
 
-DSA · C++ · OOP · DBMS
-REST APIs · Backend Architecture
-Git · GitHub
-
-</td>
-
-<td width="25%" align="center">
-
-### 🌐 Full Stack
-
-React.js · Node.js
-Express.js · MongoDB
-JWT · REST APIs
+<sub>
+DSA, C++, OOP, DBMS,<br/>
+backend architecture,<br/>
+scalable software
+</sub>
 
 </td>
 
-<td width="25%" align="center">
+<td width="20%" align="center">
 
-### 🤖 AI / ML
+**🌐**<br/>
+**Full-Stack Developer**
 
-Python · scikit-learn
-TensorFlow · Keras
-LangChain · FAISS · LLMs
+<sub>
+React.js, Node.js,<br/>
+Express.js, MongoDB,<br/>
+REST APIs & JWT
+</sub>
 
 </td>
 
-<td width="25%" align="center">
+<td width="20%" align="center">
 
-### 📊 Data
+**🤖**<br/>
+**AI / ML Engineer**
 
-SQL · MySQL
-Pandas · NumPy
-Power BI · Streamlit
+<sub>
+Machine Learning,<br/>
+Deep Learning, LangChain,<br/>
+FAISS & LLM integration
+</sub>
+
+</td>
+
+<td width="20%" align="center">
+
+**📊**<br/>
+**Data Scientist**
+
+<sub>
+Python, Pandas, NumPy,<br/>
+EDA, preprocessing,<br/>
+feature engineering
+</sub>
+
+</td>
+
+<td width="20%" align="center">
+
+**📈**<br/>
+**Data & BI**
+
+<sub>
+SQL, MySQL, Power BI,<br/>
+Streamlit, visualization<br/>
+& analytics
+</sub>
 
 </td>
 
 </tr>
 </table>
 
----
+<p align="center">
+<sub>
++ <b>Software Design</b> — building maintainable, modular and well-structured systems
+</sub>
+</p>
 
-## 🛠️ Tech Stack
+<br>
 
 <div align="center">
 
-### Languages & Core
+<img src="assets/tech-orbit.svg" width="420"/>
 
-<img src="https://skillicons.dev/icons?i=cpp,py,c,js&theme=dark"/>
+<br/>
 
-### Full Stack & Backend
+<sub>my core stack, orbiting</sub>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,mongodb,mysql&theme=dark"/>
+</div>
 
-### AI / Data / Tools
+<br>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,git,github,vscode&theme=dark"/>
+<div align="center">
 
-<br/><br/>
+<img src="assets/terminal.svg" width="600"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="assets/skills-bars.svg" width="600"/>
+
+</div>
+
+<br>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,cpp,c,js,react,nodejs,express,flask,mysql,mongodb,git,github,vscode&theme=dark"/>
+
+</div>
+
+<br>
+
+### 📊 Data Science, ML & AI
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-</div>
+</p>
+
+### 🧠 Agentic & Generative AI
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+</p>
+
+<br>
 
 ---
 
 ## 💼 Experience
 
-### 🟠 AI Engineer Intern · Coding Blocks School of Technology
+<table width="100%">
 
-**Jun 2026 – Aug 2026**
+<tr>
+<td width="160"><b>Jun 2026 – Aug 2026</b></td>
 
-> Developed an AI-powered academic research search application combining retrieval, natural-language query processing and LLM-based reasoning. Designed preprocessing and indexing workflows for searchable research content.
+<td>
 
-### 🟢 Software Development Intern · Sacred Mind Infotech
+<b>🟠 AI Engineer Intern — Coding Blocks School of Technology</b>
 
-**Apr 2026 – Jun 2026**
+<br/><br/>
 
-> Built **SkillSwap**, a MERN-based peer-to-peer skill exchange platform. Developed responsive React interfaces and Node.js/Express backend services with MongoDB, authentication and REST APIs.
+Developed an AI-powered academic research search application combining **retrieval, natural-language query processing, and LLM-based reasoning**. Designed preprocessing and indexing workflows for searchable research content.
 
-### 🔵 Data Science Intern · Ducat India
+</td>
+</tr>
 
-**Jun 2025 – Aug 2025**
+<tr>
+<td colspan="2"><br/></td>
+</tr>
 
-> Developed Python-based data processing and machine learning workflows using Pandas, NumPy and scikit-learn, including preprocessing, encoding, normalization and feature engineering.
+<tr>
+<td><b>Apr 2026 – Jun 2026</b></td>
 
-### 🟡 Google Gemini Student Ambassador · Google
+<td>
 
-**Jul 2025 – Dec 2025**
+<b>🟢 Software Development Intern — Sacred Mind Infotech</b>
 
-> Organized Generative AI and software technology workshops for **100+ students**, collaborating with student teams on technical activities and AI awareness initiatives.
+<br/><br/>
+
+Built <i>SkillSwap</i>, a MERN-based peer-to-peer skill exchange platform. Developed responsive React.js interfaces and a Node.js/Express.js backend with MongoDB, authentication and REST APIs for profiles and skill-exchange workflows.
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2"><br/></td>
+</tr>
+
+<tr>
+<td><b>Jun 2025 – Aug 2025</b></td>
+
+<td>
+
+<b>🔵 Data Science Intern — Ducat India</b>
+
+<br/><br/>
+
+Built Python-based data processing and ML solutions using **Pandas, NumPy and scikit-learn** for real-world datasets. Implemented reusable preprocessing workflows including missing-value handling, encoding, normalization and feature engineering.
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2"><br/></td>
+</tr>
+
+<tr>
+<td><b>Jul 2025 – Dec 2025</b></td>
+
+<td>
+
+<b>🟡 Google Gemini Student Ambassador — Google</b>
+
+<br/><br/>
+
+Organized Generative AI and software technology workshops for **100+ students**, collaborating with student teams on technical activities and AI awareness initiatives.
+
+</td>
+</tr>
+
+</table>
+
+<br>
 
 ---
 
@@ -164,62 +278,86 @@ Power BI · Streamlit
 <table width="100%">
 
 <tr>
-<td width="50%">
 
-### 🎯 AI Interview Platform
+<td width="50%" valign="top">
+
+### 🎯 AI-Powered Interview Preparation Platform
 
 **MERN · REST APIs · JWT · AI**
 
-AI-powered interview preparation platform that analyzes a candidate's **resume + job description** and generates personalized interview preparation and resume optimization.
+Full-stack platform for AI-driven interview preparation using **resume + job-description inputs**.
 
-🔗 [Repository](https://github.com/vastav-verma/Interview-AI)
+* Personalized interview preparation
+* AI-powered resume optimization
+* JWT authentication
+* RESTful backend architecture
+* Resume processing
+
+🔗 [GitHub Repository](https://github.com/vastav-verma/Interview-AI)
+
 🌐 [Live Demo](https://interview-ai-nu-tan.vercel.app)
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📄 PaperPilot
+### 📄 PaperPilot — AI Research Assistant
 
-**Python · LangChain · FAISS · NLP**
+**Python · LangChain · FAISS · Sentence Transformers**
 
-AI research assistant capable of searching, filtering, summarizing and comparing **50,000+ research papers** using semantic retrieval and LLM-powered reasoning.
+Modular AI research assistant designed for semantic retrieval and research-paper analysis.
 
-🔗 [Repository](https://github.com/vastav-verma/PaperPilot)
+* Search across **50,000+ papers**
+* Semantic search using FAISS
+* Summarization & comparison
+* Keyword extraction
+* AI-powered filtering
+
+🔗 [GitHub Repository](https://github.com/vastav-verma/PaperPilot)
 
 </td>
+
 </tr>
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📉 Customer Churn & Segmentation
+### 📉 Telco Customer Churn & Segmentation
 
 **Python · scikit-learn · Streamlit**
 
-ML system using **Random Forest + K-Means** on 7,000+ customer records.
+ML system built on **7,000+ customer records** combining classification and clustering.
 
-📊 ~0.84 ROC-AUC
-🎯 ~0.78 Churn Recall
+* Random Forest classification
+* K-Means segmentation
+* ~**0.84 ROC-AUC**
+* ~**0.78 churn recall**
+* Interactive Streamlit deployment
+
 🌐 [Live Demo](https://customerchurnandsegmentation1.streamlit.app/)
+
+🔗 [GitHub Repository](https://github.com/vastav-verma/Customer_Churn_-_Customer_Segmentation)
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 AI / ML Projects
+### 🧠 More AI & Software Projects
 
-Additional work across:
+My other work includes projects around:
 
-* Deep Learning
-* Computer Vision
-* RAG systems
-* AI agents
-* Data analytics
-* NLP applications
+* 🤖 AI Agents
+* 🔎 RAG Systems
+* 👁️ Computer Vision
+* 🧠 Deep Learning
+* 📊 Data Analytics
+* 🌐 MERN Applications
+* ⚙️ Backend & REST APIs
 
-🔗 [Explore all repositories](https://github.com/vastav-verma?tab=repositories)
+<br>
+
+🔗 [Explore All Repositories →](https://github.com/vastav-verma?tab=repositories)
 
 </td>
 
@@ -227,9 +365,11 @@ Additional work across:
 
 </table>
 
+<br>
+
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats & 3D Contribution Graph
 
 <div align="center">
 
@@ -239,11 +379,19 @@ Additional work across:
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%"/>
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/vastav-verma/vastav-verma/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/vastav-verma/vastav-verma/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+</p>
+
+<br>
 
 ---
 
@@ -251,54 +399,68 @@ Additional work across:
 
 <div align="center">
 
-| 🏅 Achievement                   | 📌 Result        |
-| -------------------------------- | ---------------- |
-| **ISTE Best Student Award 2026** | 🥇 Awardee       |
-| **Brand Sense AI Competition**   | 🥈 2nd Position  |
-| **Hacksphere 2.0**               | 🔟 Top 10 Teams  |
-| **Paranox 2.0**                  | 🏅 Top 200 Teams |
+| Achievement                         | Result        |
+| ----------------------------------- | ------------- |
+| 🥇 **ISTE Best Student Award 2026** | Awardee       |
+| 🥈 **Brand Sense AI Competition**   | 2nd Position  |
+| 🔟 **Hacksphere 2.0**               | Top 10 Teams  |
+| 🏅 **Paranox 2.0**                  | Top 200 Teams |
 
 </div>
+
+<br>
 
 ---
 
 ## 🎓 Education
 
-**B.Tech — Computer Science & Engineering**
-PCTE Group of Institutes, Ludhiana · **2023 – 2027**
-**CGPA: 9.22**
+### B.Tech — Computer Science & Engineering
 
-**Higher Secondary — PCM**
-Shifaly International School · **2022 – 2023**
-**75%**
+**PCTE Group of Institutes, Ludhiana**
+2023 – 2027 · **CGPA: 9.22**
+
+### Higher Secondary — PCM
+
+**Shifaly International School**
+2022 – 2023 · **75%**
+
+<br>
 
 ---
 
-## 📫 Let's Connect
-
 <div align="center">
 
-I'm always interested in discussing **Software Engineering, AI/ML, backend systems, DSA and interesting technical projects.**
+## 📬 Let's Connect
 
-<br/>
+<p>
+
+I'm interested in building **software systems, AI-powered products, backend services and intelligent developer tools.**
+
+</p>
 
 <a href="mailto:mamtavastavverma@gmail.com">
+
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/vastav-verma/">
+
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="https://github.com/vastav-verma">
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 <br/><br/>
 
-**Open to Software Engineering · SDE · AI/ML · Data opportunities**
+<b>Open to Software Engineering · SDE · AI/ML · Data opportunities</b>
 
-<br/>
+<br/><br/>
 
 <img src="assets/banner.svg" width="100%"/>
 
