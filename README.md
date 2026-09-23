@@ -9,23 +9,23 @@
 <br/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=vastav-verma&label=Profile%20Views&color=58a6ff&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/vastav-verma?label=Followers&style=for-the-badge&color=a371f7"/>
-  <img src="https://img.shields.io/badge/Location-Ludhiana%2C%20Punjab%2C%20India-ff7b54?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=vastav-verma&label=Profile%20Views&color=58a6ff&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/vastav-verma?label=Followers&style=for-the-badge&color=a371f7"/>
+<img src="https://img.shields.io/badge/Location-Ludhiana%2C%20Punjab%2C%20India-ff7b54?style=for-the-badge"/>
 </p>
 
 <p>
-  <a href="mailto:mamtavastavverma@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="22"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vastav-verma/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/vastav-verma">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="22"/>
-  </a>
+<a href="mailto:mamtavastavverma@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="22"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vastav-verma/">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/vastav-verma">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="22"/>
+</a>
 </p>
 
 </div>
@@ -55,7 +55,7 @@ Currently pursuing **B.Tech in Computer Science & Engineering (2023–2027)** wi
 
 </td>
 
-<td width="35%" align="center" valign="middle">
+<td width="35%" align="center">
 
 <img src="assets/tech-orbit.svg" width="300"/>
 
@@ -76,94 +76,7 @@ Currently pursuing **B.Tech in Computer Science & Engineering (2023–2027)** wi
 
 <div align="center">
 
-<table width="92%">
-<tr>
-
-<td width="20%" align="center" valign="middle">
-
-**👨‍💻**<br/>
-<b>Software Engineering</b>
-
-<br/><br/>
-
-<sub>
-C++ · DSA · OOP<br/>
-DBMS · REST APIs<br/>
-Backend Architecture
-</sub>
-
-</td>
-
-<td width="20%" align="center" valign="middle">
-
-**🌐**<br/>
-<b>Full Stack</b>
-
-<br/><br/>
-
-<sub>
-React.js · Node.js<br/>
-Express.js · MongoDB<br/>
-JWT · REST APIs
-</sub>
-
-</td>
-
-<td width="20%" align="center" valign="middle">
-
-**🤖**<br/>
-<b>AI / ML</b>
-
-<br/><br/>
-
-<sub>
-Machine Learning<br/>
-Deep Learning · NLP<br/>
-LLM Integration
-</sub>
-
-</td>
-
-<td width="20%" align="center" valign="middle">
-
-**📊**<br/>
-<b>Data Science</b>
-
-<br/><br/>
-
-<sub>
-Pandas · NumPy<br/>
-EDA · Feature Engineering<br/>
-Predictive Modeling
-</sub>
-
-</td>
-
-<td width="20%" align="center" valign="middle">
-
-**📈**<br/>
-<b>Data & BI</b>
-
-<br/><br/>
-
-<sub>
-SQL · MySQL<br/>
-Power BI · Streamlit<br/>
-Data Visualization
-</sub>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<img src="assets/terminal.svg" width="560"/>
-
-<br/><br/>
-
-<img src="assets/skills-bars.svg" width="560"/>
+<img src="assets/expertise.svg" width="100%" alt="Areas of Expertise"/>
 
 </div>
 
@@ -394,7 +307,7 @@ Machine-learning system combining **Random Forest classification + K-Means clust
 
 <td width="50%" align="center" valign="middle">
 
-<img src="assets/project-lab.svg" width="95%"/>
+<img src="assets/project-lab.svg" width="95%" alt="More projects coming soon"/>
 
 </td>
 
@@ -434,67 +347,7 @@ Machine-learning system combining **Random Forest classification + K-Means clust
 
 <div align="center">
 
-<table width="82%">
-<tr>
-
-<td width="25%" align="center" valign="middle">
-
-🥇
-
-<br/><br/>
-
-<b>ISTE Best Student Award</b>
-
-<br/><br/>
-
-<sub>2026</sub>
-
-</td>
-
-<td width="25%" align="center" valign="middle">
-
-🥈
-
-<br/><br/>
-
-<b>Brand Sense AI Competition</b>
-
-<br/><br/>
-
-<sub>2nd Position</sub>
-
-</td>
-
-<td width="25%" align="center" valign="middle">
-
-🔟
-
-<br/><br/>
-
-<b>Hacksphere 2.0</b>
-
-<br/><br/>
-
-<sub>Top 10 Teams</sub>
-
-</td>
-
-<td width="25%" align="center" valign="middle">
-
-🏅
-
-<br/><br/>
-
-<b>Paranox 2.0</b>
-
-<br/><br/>
-
-<sub>Top 200 Teams</sub>
-
-</td>
-
-</tr>
-</table>
+<img src="assets/achievements.svg" width="100%" alt="Achievements"/>
 
 </div>
 
@@ -506,43 +359,7 @@ Machine-learning system combining **Random Forest classification + K-Means clust
 
 <div align="center">
 
-<table width="70%">
-<tr>
-
-<td width="50%" align="center" valign="middle">
-
-### 🎓 B.Tech CSE
-
-**PCTE Group of Institutes, Ludhiana**
-
-<br/>
-
-<sub>2023 – 2027</sub>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/CGPA-9.22-58a6ff?style=for-the-badge"/>
-
-</td>
-
-<td width="50%" align="center" valign="middle">
-
-### 🏫 Higher Secondary
-
-**Shifaly International School**
-
-<br/>
-
-<sub>2022 – 2023</sub>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/PCM-75%25-a371f7?style=for-the-badge"/>
-
-</td>
-
-</tr>
-</table>
+<img src="assets/education.svg" width="90%" alt="Education"/>
 
 </div>
 
