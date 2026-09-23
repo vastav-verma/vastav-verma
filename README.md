@@ -154,9 +154,9 @@ Organized generative AI & software technology workshops for 100+ students; colla
 
 | Project | What it does |
 |---|---|
-| 🎯 [AI-Powered Interview Preparation Platform](https://github.com/vastav-verma/your-repo-name) · [Live Demo](https://your-live-demo-link.com) | Full-stack MERN app for AI-driven interview prep using resume & job-description inputs, with JWT auth and an AI resume-optimization module |
-| 📄 [PaperPilot — AI Research Assistant Agent](https://github.com/vastav-verma/your-repo-name) | Modular AI agent for semantic search, summarization & comparison across 50,000+ research papers using FAISS + Sentence Transformers |
-| 📉 [Telco Customer Churn Prediction & Segmentation](https://github.com/vastav-verma/your-repo-name) · [Live Demo](https://your-live-demo-link.com) | Random Forest + K-Means model on 7,000+ customer records (~0.84 ROC-AUC, ~0.78 churn recall), deployed via an interactive Streamlit app |
+| 🎯 [AI-Powered Interview Preparation Platform](https://github.com/vastav-verma/Interview-AI) · [Live Demo](https://interview-ai-nu-tan.vercel.app) | Full-stack MERN app for AI-driven interview prep using resume & job-description inputs, with JWT auth and an AI resume-optimization module |
+| 📄 [PaperPilot — AI Research Assistant Agent](https://github.com/vastav-verma/PaperPilot) | Modular AI agent for semantic search, summarization & comparison across 50,000+ research papers using FAISS + Sentence Transformers |
+| 📉 [Telco Customer Churn Prediction & Segmentation](https://github.com/vastav-verma/Customer_Churn_-_Customer_Segmentation) · [Live Demo](https://customerchurnandsegmentation1.streamlit.app/) | Random Forest + K-Means model on 7,000+ customer records (~0.84 ROC-AUC, ~0.78 churn recall), deployed via an interactive Streamlit app |
 
 <br>
 
@@ -180,19 +180,6 @@ Organized generative AI & software technology workshops for 100+ students; colla
 
 <br>
 
-## 🧩 Coding Profiles
-
-<div align="center">
-
-| Platform | Status |
-|---|---|
-| 🟠 LeetCode | *add your LeetCode profile link & stats* |
-| 🟢 GeeksforGeeks | *add your GfG profile link* |
-| 💠 HackerRank | *add your HackerRank profile link* |
-
-</div>
-
-<br>
 
 ## 🏆 Achievements
 
