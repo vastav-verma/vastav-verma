@@ -1,0 +1,113 @@
+<svg width="850" height="255" viewBox="0 0 850 255" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<rect x="1" y="1" width="848" height="253" rx="18"
+      fill="#0D1117" stroke="#21262D"/>
+
+<!-- Title -->
+<text x="425" y="38"
+      text-anchor="middle"
+      fill="#58A6FF"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="18"
+      font-weight="700">
+  EDUCATION
+</text>
+
+<line x1="45" y1="58" x2="805" y2="58"
+      stroke="#21262D"/>
+
+<!-- B.Tech -->
+<rect x="35" y="78" width="375" height="145" rx="14"
+      fill="#111820" stroke="#30363D"/>
+
+<text x="222.5" y="112"
+      text-anchor="middle"
+      font-size="25">
+  🎓
+</text>
+
+<text x="222.5" y="140"
+      text-anchor="middle"
+      fill="#F0F6FC"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="16"
+      font-weight="700">
+  B.Tech · Computer Science &amp; Engineering
+</text>
+
+<text x="222.5" y="165"
+      text-anchor="middle"
+      fill="#8B949E"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="12">
+  PCTE Group of Institutes · Ludhiana
+</text>
+
+<text x="222.5" y="187"
+      text-anchor="middle"
+      fill="#8B949E"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="12">
+  2023 – 2027
+</text>
+
+<rect x="158" y="197" width="129" height="20" rx="5"
+      fill="#21262D"/>
+
+<text x="222.5" y="211"
+      text-anchor="middle"
+      fill="#58A6FF"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="11"
+      font-weight="700">
+  CGPA · 9.22
+</text>
+
+<!-- Higher Secondary -->
+<rect x="440" y="78" width="375" height="145" rx="14"
+      fill="#111820" stroke="#30363D"/>
+
+<text x="627.5" y="112"
+      text-anchor="middle"
+      font-size="25">
+  🏫
+</text>
+
+<text x="627.5" y="140"
+      text-anchor="middle"
+      fill="#F0F6FC"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="16"
+      font-weight="700">
+  Higher Secondary · PCM
+</text>
+
+<text x="627.5" y="165"
+      text-anchor="middle"
+      fill="#8B949E"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="12">
+  Shifaly International School
+</text>
+
+<text x="627.5" y="187"
+      text-anchor="middle"
+      fill="#8B949E"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="12">
+  2022 – 2023
+</text>
+
+<rect x="563" y="197" width="129" height="20" rx="5"
+      fill="#21262D"/>
+
+<text x="627.5" y="211"
+      text-anchor="middle"
+      fill="#A371F7"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="11"
+      font-weight="700">
+  SCORE · 75%
+</text>
+
+</svg>
