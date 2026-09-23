@@ -187,7 +187,6 @@ Organized generative AI & software technology workshops for 100+ students; colla
 - 🏅 **Paranox 2.0** — Top 200 Teams
 
 <br>
-
 ## 🎓 Education
 
 **B.Tech, Computer Science & Engineering** — PCTE Group of Institutes, Ludhiana *(2023 – 2027)* · CGPA: 9.22
