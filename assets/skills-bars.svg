@@ -1,0 +1,57 @@
+<svg viewBox="0 0 700 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="barfill" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#a371f7"/>
+    </linearGradient>
+    <filter id="softglow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+
+  <rect width="700" height="300" fill="#0d1117"/>
+
+  <g font-family="Fira Code, monospace" font-size="15" fill="#c9d1d9">
+
+    <text x="0" y="20">Python</text>
+    <rect x="0" y="30" width="700" height="14" rx="7" fill="#21262d"/>
+    <rect x="0" y="30" height="14" rx="7" fill="url(#barfill)" filter="url(#softglow)">
+      <animate attributeName="width" values="0;630" dur="1.8s" begin="0.1s" fill="freeze"/>
+    </rect>
+    <text x="672" y="20" text-anchor="end" fill="#58a6ff">90%</text>
+
+    <text x="0" y="70">JavaScript / MERN Stack</text>
+    <rect x="0" y="80" width="700" height="14" rx="7" fill="#21262d"/>
+    <rect x="0" y="80" height="14" rx="7" fill="url(#barfill)" filter="url(#softglow)">
+      <animate attributeName="width" values="0;595" dur="1.8s" begin="0.4s" fill="freeze"/>
+    </rect>
+    <text x="672" y="70" text-anchor="end" fill="#58a6ff">85%</text>
+
+    <text x="0" y="120">SQL / DBMS</text>
+    <rect x="0" y="130" width="700" height="14" rx="7" fill="#21262d"/>
+    <rect x="0" y="130" height="14" rx="7" fill="url(#barfill)" filter="url(#softglow)">
+      <animate attributeName="width" values="0;595" dur="1.8s" begin="0.7s" fill="freeze"/>
+    </rect>
+    <text x="672" y="120" text-anchor="end" fill="#58a6ff">85%</text>
+
+    <text x="0" y="170">Machine Learning</text>
+    <rect x="0" y="180" width="700" height="14" rx="7" fill="#21262d"/>
+    <rect x="0" y="180" height="14" rx="7" fill="url(#barfill)" filter="url(#softglow)">
+      <animate attributeName="width" values="0;560" dur="1.8s" begin="1s" fill="freeze"/>
+    </rect>
+    <text x="672" y="170" text-anchor="end" fill="#58a6ff">80%</text>
+
+    <text x="0" y="220">C++ / DSA</text>
+    <rect x="0" y="230" width="700" height="14" rx="7" fill="#21262d"/>
+    <rect x="0" y="230" height="14" rx="7" fill="url(#barfill)" filter="url(#softglow)">
+      <animate attributeName="width" values="0;560" dur="1.8s" begin="1.3s" fill="freeze"/>
+    </rect>
+    <text x="672" y="220" text-anchor="end" fill="#58a6ff">80%</text>
+
+    <text x="0" y="270">Deep Learning (TensorFlow/Keras)</text>
+    <rect x="0" y="280" width="700" height="14" rx="7" fill="#21262d"/>
+    <rect x="0" y="280" height="14" rx="7" fill="url(#barfill)" filter="url(#softglow)">
+      <animate attributeName="width" values="0;525" dur="1.8s" begin="1.6s" fill="freeze"/>
+    </rect>
+    <text x="672" y="270" text-anchor="end" fill="#58a6ff">75%</text>
+
+  </g>
+</svg>

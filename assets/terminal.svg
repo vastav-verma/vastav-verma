@@ -1,0 +1,58 @@
+<svg viewBox="0 0 700 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="termbg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="700" height="280" rx="14" fill="url(#termbg)" stroke="#30363d" stroke-width="1.5"/>
+  <rect width="700" height="36" rx="14" fill="#161b22"/>
+  <rect y="22" width="700" height="14" fill="#161b22"/>
+  <circle cx="24" cy="18" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="18" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="18" r="6" fill="#27c93f"/>
+  <text x="350" y="23" font-family="Fira Code, monospace" font-size="12" fill="#8b949e" text-anchor="middle">vastav@portfolio: ~</text>
+
+  <g font-family="Fira Code, monospace" font-size="16" fill="#c9d1d9">
+    <text x="24" y="70"><tspan fill="#58a6ff">$</tspan> whoami</text>
+    <text x="24" y="98" fill="#a371f7">Vastav Verma — Software Engineer · Data Scientist</text>
+
+    <text x="24" y="132"><tspan fill="#58a6ff">$</tspan> cat experience.log</text>
+    <text x="24" y="160" fill="#7ee787">CBSOT → Sacred Mind Infotech → Ducat India → Google</text>
+
+    <text x="24" y="194"><tspan fill="#58a6ff">$</tspan> cat cgpa.txt</text>
+    <text x="24" y="222" fill="#ffa657">9.22 CGPA · B.Tech CSE · 2023–2027 ✔</text>
+
+    <g>
+      <text x="24" y="256"><tspan fill="#58a6ff">$</tspan> <tspan id="cursor-anchor"></tspan></text>
+      <rect x="15" y="244" width="10" height="16" fill="#58a6ff">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+
+  <rect x="24" y="55" width="0" height="20" fill="url(#termbg)">
+    <animate attributeName="width" values="180;0" dur="0.01s" begin="0s" fill="freeze"/>
+  </rect>
+
+  <g fill="#0d1117">
+    <rect x="60" y="58" height="18">
+      <animate attributeName="width" values="130;0" dur="1.2s" begin="0.3s" fill="freeze"/>
+    </rect>
+    <rect x="24" y="86" height="18">
+      <animate attributeName="width" values="520;0" dur="2s" begin="1.6s" fill="freeze"/>
+    </rect>
+    <rect x="60" y="120" height="18">
+      <animate attributeName="width" values="260;0" dur="1.4s" begin="4s" fill="freeze"/>
+    </rect>
+    <rect x="24" y="148" height="18">
+      <animate attributeName="width" values="480;0" dur="1.8s" begin="5.6s" fill="freeze"/>
+    </rect>
+    <rect x="60" y="182" height="18">
+      <animate attributeName="width" values="200;0" dur="1.5s" begin="7.8s" fill="freeze"/>
+    </rect>
+    <rect x="24" y="210" height="18">
+      <animate attributeName="width" values="380;0" dur="1.7s" begin="9.5s" fill="freeze"/>
+    </rect>
+  </g>
+</svg>

@@ -1,0 +1,79 @@
+<svg viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="core" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#8ecbff"/>
+      <stop offset="55%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </radialGradient>
+    <radialGradient id="orb1" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#ffe08a"/><stop offset="60%" stop-color="#f2a900"/><stop offset="100%" stop-color="#5c3d00"/>
+    </radialGradient>
+    <radialGradient id="orb2" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#b9f6d0"/><stop offset="60%" stop-color="#2ec866"/><stop offset="100%" stop-color="#0c3d1f"/>
+    </radialGradient>
+    <radialGradient id="orb3" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#ffd0e6"/><stop offset="60%" stop-color="#e0245e"/><stop offset="100%" stop-color="#4a0f22"/>
+    </radialGradient>
+    <radialGradient id="orb4" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#e3d0ff"/><stop offset="60%" stop-color="#a371f7"/><stop offset="100%" stop-color="#301a4d"/>
+    </radialGradient>
+    <radialGradient id="orb5" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#c9f6ff"/><stop offset="60%" stop-color="#22c1c3"/><stop offset="100%" stop-color="#083838"/>
+    </radialGradient>
+    <radialGradient id="orb6" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#ffe6c9"/><stop offset="60%" stop-color="#ff7b54"/><stop offset="100%" stop-color="#4d2413"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="600" height="600" fill="#0d1117"/>
+
+  <circle cx="300" cy="300" r="230" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+  <circle cx="300" cy="300" r="230" fill="none" stroke="#30363d" stroke-width="1" stroke-dasharray="2 6"/>
+
+  <circle cx="300" cy="300" r="60" fill="url(#core)">
+    <animate attributeName="r" values="58;64;58" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <text x="300" y="312" font-family="Fira Code, monospace" font-size="28" font-weight="700" fill="#0d1117" text-anchor="middle">VV</text>
+
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 300 300" to="360 300 300" dur="18s" repeatCount="indefinite"/>
+    <g transform="translate(300,70)">
+      <circle r="34" fill="url(#orb1)"/>
+      <text y="6" font-family="Fira Code, monospace" font-size="16" font-weight="700" fill="#0d1117" text-anchor="middle">PY</text>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="18s" additive="sum" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(300,530)">
+      <circle r="34" fill="url(#orb2)"/>
+      <text y="6" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#0d1117" text-anchor="middle">SQL</text>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="18s" additive="sum" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <g transform="rotate(120 300 300)">
+    <animateTransform attributeName="transform" type="rotate" from="120 300 300" to="-240 300 300" dur="22s" repeatCount="indefinite"/>
+    <g transform="translate(300,70)">
+      <circle r="30" fill="url(#orb3)"/>
+      <text y="5" font-family="Fira Code, monospace" font-size="13" font-weight="700" fill="#0d1117" text-anchor="middle">ML</text>
+      <animateTransform attributeName="transform" type="rotate" from="-120 0 0" to="240 0 0" dur="22s" additive="sum" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(300,530)">
+      <circle r="30" fill="url(#orb4)"/>
+      <text y="5" font-family="Fira Code, monospace" font-size="12" font-weight="700" fill="#0d1117" text-anchor="middle">MERN</text>
+      <animateTransform attributeName="transform" type="rotate" from="-120 0 0" to="240 0 0" dur="22s" additive="sum" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <g transform="rotate(240 300 300)">
+    <animateTransform attributeName="transform" type="rotate" from="240 300 300" to="600 300 300" dur="26s" repeatCount="indefinite"/>
+    <g transform="translate(300,70)">
+      <circle r="28" fill="url(#orb5)"/>
+      <text y="5" font-family="Fira Code, monospace" font-size="12" font-weight="700" fill="#0d1117" text-anchor="middle">DL</text>
+      <animateTransform attributeName="transform" type="rotate" from="-240 0 0" to="-600 0 0" dur="26s" additive="sum" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(300,530)">
+      <circle r="28" fill="url(#orb6)"/>
+      <text y="5" font-family="Fira Code, monospace" font-size="12" font-weight="700" fill="#0d1117" text-anchor="middle">C++</text>
+      <animateTransform attributeName="transform" type="rotate" from="-240 0 0" to="-600 0 0" dur="26s" additive="sum" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
