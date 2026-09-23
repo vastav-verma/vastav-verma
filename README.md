@@ -26,9 +26,14 @@
 
 ## 🧠 Who I Am
 
+
 I'm a **Software Engineer** at heart — building full-stack applications, backend services, REST APIs, and AI-powered software solutions. I specialize across **MERN-stack development, Machine Learning, Deep Learning, and Agentic AI**, giving me range from clean backend architecture to LLM-powered agents.
 
 Based in **Ludhiana, Punjab, India**, currently a B.Tech CSE student (2023–2027) with real-world experience at **Coding Blocks School of Technology, Sacred Mind Infotech, Ducat India, and Google**. Currently open to **full-time roles, internships, and freelance/contract work**.
+
+<br>
+
+---
 
 <br>
 
@@ -92,6 +97,10 @@ Based in **Ludhiana, Punjab, India**, currently a B.Tech CSE student (2023–202
 
 <br>
 
+---
+
+<br>
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -109,6 +118,10 @@ Based in **Ludhiana, Punjab, India**, currently a B.Tech CSE student (2023–202
 <p align="center">
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge"/> <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
+
+<br>
+
+---
 
 <br>
 
@@ -150,6 +163,10 @@ Organized generative AI & software technology workshops for 100+ students; colla
 
 <br>
 
+---
+
+<br>
+
 ## 🚀 Featured Projects
 
 | Project | What it does |
@@ -157,6 +174,10 @@ Organized generative AI & software technology workshops for 100+ students; colla
 | 🎯 [AI-Powered Interview Preparation Platform](https://github.com/vastav-verma/Interview-AI) · [Live Demo](https://interview-ai-nu-tan.vercel.app) | Full-stack MERN app for AI-driven interview prep using resume & job-description inputs, with JWT auth and an AI resume-optimization module |
 | 📄 [PaperPilot — AI Research Assistant Agent](https://github.com/vastav-verma/PaperPilot) | Modular AI agent for semantic search, summarization & comparison across 50,000+ research papers using FAISS + Sentence Transformers |
 | 📉 [Telco Customer Churn Prediction & Segmentation](https://github.com/vastav-verma/Customer_Churn_-_Customer_Segmentation) · [Live Demo](https://customerchurnandsegmentation1.streamlit.app/) | Random Forest + K-Means model on 7,000+ customer records (~0.84 ROC-AUC, ~0.78 churn recall), deployed via an interactive Streamlit app |
+
+<br>
+
+---
 
 <br>
 
@@ -180,12 +201,48 @@ Organized generative AI & software technology workshops for 100+ students; colla
 
 <br>
 
+---
+
+<br>
+
 ## 🏆 Achievements
 
-- 🥇 **ISTE Best Student Award 2026**
-- 🥈 **Brand Sense AI Competition** — 2nd Position
-- 🔟 **Hacksphere 2.0** — Top 10 Teams
-- 🏅 **Paranox 2.0** — Top 200 Teams
+<table width="100%">
+<tr>
+<td width="25%" align="center">
+
+🥇
+<br/>**ISTE Best Student Award**
+<br/><sub>2026</sub>
+
+</td>
+<td width="25%" align="center">
+
+🥈
+<br/>**Brand Sense AI Competition**
+<br/><sub>2nd Position</sub>
+
+</td>
+<td width="25%" align="center">
+
+🔟
+<br/>**Hacksphere 2.0**
+<br/><sub>Top 10 Teams</sub>
+
+</td>
+<td width="25%" align="center">
+
+🏅
+<br/>**Paranox 2.0**
+<br/><sub>Top 200 Teams</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
 
 <br>
 
@@ -216,19 +273,36 @@ Organized generative AI & software technology workshops for 100+ students; colla
 
 <br>
 
+---
+
+<br>
+
 <div align="center">
 
 ## 📬 Let's Connect
 
-| | |
-|---|---|
-| <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20"/> Email | [mamtavastavverma@gmail.com](mailto:mamtavastavverma@gmail.com) |
-| <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20"/> LinkedIn | [linkedin.com/in/vastav-verma](https://www.linkedin.com/in/vastav-verma/) |
-| <img src="https://cdn.simpleicons.org/github/181717" width="20"/> GitHub | [github.com/vastav-verma](https://github.com/vastav-verma) |
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="22"/><br/>
+<a href="mailto:mamtavastavverma@gmail.com">Email</a>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22"/><br/>
+<a href="https://www.linkedin.com/in/vastav-verma/">LinkedIn</a>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn.simpleicons.org/github/181717" width="22"/><br/>
+<a href="https://github.com/vastav-verma">GitHub</a>
+</td>
+</tr>
+</table>
 
 <br/>
 
 *Available for full-time roles, internships, and freelance/contract work.*
+
+<br/><br/>
 
 <img src="assets/banner.svg" width="100%"/>
 
