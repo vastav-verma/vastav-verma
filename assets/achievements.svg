@@ -1,0 +1,145 @@
+<svg width="950" height="270" viewBox="0 0 950 270" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<rect x="1" y="1" width="948" height="268" rx="18"
+      fill="#0D1117" stroke="#21262D"/>
+
+<!-- Title -->
+<text x="475" y="38"
+      text-anchor="middle"
+      fill="#F2CC60"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="18"
+      font-weight="700">
+  ACHIEVEMENTS
+</text>
+
+<line x1="45" y1="58" x2="905" y2="58"
+      stroke="#21262D"/>
+
+<!-- Achievement 1 -->
+<rect x="35" y="78" width="210" height="160" rx="14"
+      fill="#111820" stroke="#30363D"/>
+
+<text x="140" y="119"
+      text-anchor="middle"
+      font-size="30">
+  🥇
+</text>
+
+<text x="140" y="151"
+      text-anchor="middle"
+      fill="#F0F6FC"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="14"
+      font-weight="700">
+  ISTE Best Student
+</text>
+
+<text x="140" y="171"
+      text-anchor="middle"
+      fill="#F0F6FC"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="14"
+      font-weight="700">
+  Award
+</text>
+
+<text x="140" y="207"
+      text-anchor="middle"
+      fill="#8B949E"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="12">
+  2026
+</text>
+
+<!-- Achievement 2 -->
+<rect x="260" y="78" width="210" height="160" rx="14"
+      fill="#111820" stroke="#30363D"/>
+
+<text x="365" y="119"
+      text-anchor="middle"
+      font-size="30">
+  🥈
+</text>
+
+<text x="365" y="151"
+      text-anchor="middle"
+      fill="#F0F6FC"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="14"
+      font-weight="700">
+  Brand Sense AI
+</text>
+
+<text x="365" y="171"
+      text-anchor="middle"
+      fill="#F0F6FC"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="14"
+      font-weight="700">
+  Competition
+</text>
+
+<text x="365" y="207"
+      text-anchor="middle"
+      fill="#8B949E"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="12">
+  2nd Position
+</text>
+
+<!-- Achievement 3 -->
+<rect x="485" y="78" width="210" height="160" rx="14"
+      fill="#111820" stroke="#30363D"/>
+
+<text x="590" y="119"
+      text-anchor="middle"
+      font-size="30">
+  🔟
+</text>
+
+<text x="590" y="151"
+      text-anchor="middle"
+      fill="#F0F6FC"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="14"
+      font-weight="700">
+  Hacksphere 2.0
+</text>
+
+<text x="590" y="207"
+      text-anchor="middle"
+      fill="#8B949E"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="12">
+  Top 10 Teams
+</text>
+
+<!-- Achievement 4 -->
+<rect x="710" y="78" width="205" height="160" rx="14"
+      fill="#111820" stroke="#30363D"/>
+
+<text x="812.5" y="119"
+      text-anchor="middle"
+      font-size="30">
+  🏅
+</text>
+
+<text x="812.5" y="151"
+      text-anchor="middle"
+      fill="#F0F6FC"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="14"
+      font-weight="700">
+  Paranox 2.0
+</text>
+
+<text x="812.5" y="207"
+      text-anchor="middle"
+      fill="#8B949E"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="12">
+  Top 200 Teams
+</text>
+
+</svg>
