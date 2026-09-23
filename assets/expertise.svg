@@ -1,0 +1,235 @@
+<svg width="1100" height="300" viewBox="0 0 1100 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<rect x="1" y="1" width="1098" height="298" rx="18"
+      fill="#0D1117" stroke="#21262D"/>
+
+<!-- Title -->
+<text x="550" y="38"
+      text-anchor="middle"
+      fill="#58A6FF"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="18"
+      font-weight="700">
+  AREAS OF EXPERTISE
+</text>
+
+<!-- Divider -->
+<line x1="45" y1="58" x2="1055" y2="58"
+      stroke="#21262D"/>
+
+<!-- Card 1 -->
+<rect x="35" y="78" width="195" height="185" rx="14"
+      fill="#111820" stroke="#30363D"/>
+
+<text x="132.5" y="112"
+      text-anchor="middle"
+      font-size="27">
+  👨‍💻
+</text>
+
+<text x="132.5" y="143"
+      text-anchor="middle"
+      fill="#F0F6FC"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="700">
+  Software Engineering
+</text>
+
+<text x="132.5" y="174"
+      text-anchor="middle"
+      fill="#8B949E"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="12">
+  C++ · DSA · OOP
+</text>
+
+<text x="132.5" y="194"
+      text-anchor="middle"
+      fill="#8B949E"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="12">
+  DBMS · REST APIs
+</text>
+
+<text x="132.5" y="214"
+      text-anchor="middle"
+      fill="#8B949E"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="12">
+  Backend Architecture
+</text>
+
+<!-- Card 2 -->
+<rect x="245" y="78" width="195" height="185" rx="14"
+      fill="#111820" stroke="#30363D"/>
+
+<text x="342.5" y="112"
+      text-anchor="middle"
+      font-size="27">
+  🌐
+</text>
+
+<text x="342.5" y="143"
+      text-anchor="middle"
+      fill="#F0F6FC"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="700">
+  Full Stack
+</text>
+
+<text x="342.5" y="174"
+      text-anchor="middle"
+      fill="#8B949E"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="12">
+  React.js · Node.js
+</text>
+
+<text x="342.5" y="194"
+      text-anchor="middle"
+      fill="#8B949E"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="12">
+  Express.js · MongoDB
+</text>
+
+<text x="342.5" y="214"
+      text-anchor="middle"
+      fill="#8B949E"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="12">
+  JWT · REST APIs
+</text>
+
+<!-- Card 3 -->
+<rect x="455" y="78" width="195" height="185" rx="14"
+      fill="#111820" stroke="#30363D"/>
+
+<text x="552.5" y="112"
+      text-anchor="middle"
+      font-size="27">
+  🤖
+</text>
+
+<text x="552.5" y="143"
+      text-anchor="middle"
+      fill="#F0F6FC"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="700">
+  AI / ML
+</text>
+
+<text x="552.5" y="174"
+      text-anchor="middle"
+      fill="#8B949E"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="12">
+  Machine Learning
+</text>
+
+<text x="552.5" y="194"
+      text-anchor="middle"
+      fill="#8B949E"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="12">
+  Deep Learning · NLP
+</text>
+
+<text x="552.5" y="214"
+      text-anchor="middle"
+      fill="#8B949E"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="12">
+  LLM Integration
+</text>
+
+<!-- Card 4 -->
+<rect x="665" y="78" width="195" height="185" rx="14"
+      fill="#111820" stroke="#30363D"/>
+
+<text x="762.5" y="112"
+      text-anchor="middle"
+      font-size="27">
+  📊
+</text>
+
+<text x="762.5" y="143"
+      text-anchor="middle"
+      fill="#F0F6FC"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="700">
+  Data Science
+</text>
+
+<text x="762.5" y="174"
+      text-anchor="middle"
+      fill="#8B949E"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="12">
+  Pandas · NumPy
+</text>
+
+<text x="762.5" y="194"
+      text-anchor="middle"
+      fill="#8B949E"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="12">
+  EDA · Feature Engineering
+</text>
+
+<text x="762.5" y="214"
+      text-anchor="middle"
+      fill="#8B949E"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="12">
+  Predictive Modeling
+</text>
+
+<!-- Card 5 -->
+<rect x="875" y="78" width="190" height="185" rx="14"
+      fill="#111820" stroke="#30363D"/>
+
+<text x="970" y="112"
+      text-anchor="middle"
+      font-size="27">
+  📈
+</text>
+
+<text x="970" y="143"
+      text-anchor="middle"
+      fill="#F0F6FC"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="15"
+      font-weight="700">
+  Data &amp; BI
+</text>
+
+<text x="970" y="174"
+      text-anchor="middle"
+      fill="#8B949E"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="12">
+  SQL · MySQL
+</text>
+
+<text x="970" y="194"
+      text-anchor="middle"
+      fill="#8B949E"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="12">
+  Power BI · Streamlit
+</text>
+
+<text x="970" y="214"
+      text-anchor="middle"
+      fill="#8B949E"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="12">
+  Data Visualization
+</text>
+
+</svg>
