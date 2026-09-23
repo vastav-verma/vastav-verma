@@ -9,30 +9,38 @@
 <br/>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=vastav-verma&label=Profile%20Views&color=58a6ff&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/vastav-verma?label=Followers&style=for-the-badge&color=a371f7"/>
-<img src="https://img.shields.io/badge/Location-Ludhiana%2C%20Punjab%2C%20India-ff7b54?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=vastav-verma&label=Profile%20Views&color=58a6ff&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/vastav-verma?label=Followers&style=for-the-badge&color=a371f7"/>
+  <img src="https://img.shields.io/badge/Location-Ludhiana%2C%20Punjab%2C%20India-ff7b54?style=for-the-badge"/>
 </p>
 
-<p>
+<p align="center">
+
 <a href="mailto:mamtavastavverma@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="22"/>
+  <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
+
+&nbsp;
+
 <a href="https://www.linkedin.com/in/vastav-verma/">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
+
+&nbsp;
+
 <a href="https://github.com/vastav-verma">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="22"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 </div>
 
 ---
 
-<h2 align="center">🧠 About Me</h2>
+<br/>
+
+## 🧠 About Me
 
 <table width="100%">
 <tr>
@@ -55,13 +63,17 @@ Currently pursuing **B.Tech in Computer Science & Engineering (2023–2027)** wi
 
 </td>
 
-<td width="35%" align="center">
+<td width="35%" align="center" valign="middle">
 
 <img src="assets/tech-orbit.svg" width="300"/>
 
+<br/><br/>
+
+<sub><b>Building at the intersection of</b></sub>
+
 <br/>
 
-<sub><b>Building at the intersection of<br/>Software × Data × AI</b></sub>
+<sub>Software × Data × AI</sub>
 
 </td>
 
@@ -70,7 +82,21 @@ Currently pursuing **B.Tech in Computer Science & Engineering (2023–2027)** wi
 
 <br/>
 
+<div align="center">
+
+<img src="assets/terminal.svg" width="600"/>
+
+<br/><br/>
+
+<img src="assets/skills-bars.svg" width="600"/>
+
+</div>
+
+<br/>
+
 ---
+
+<br/>
 
 <h2 align="center">🧩 Areas of Expertise</h2>
 
@@ -83,6 +109,8 @@ Currently pursuing **B.Tech in Computer Science & Engineering (2023–2027)** wi
 <br/>
 
 ---
+
+<br/>
 
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
@@ -98,7 +126,8 @@ Currently pursuing **B.Tech in Computer Science & Engineering (2023–2027)** wi
 
 ### Data Science · ML · Deep Learning
 
-<p>
+<p align="center">
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -106,17 +135,20 @@ Currently pursuing **B.Tech in Computer Science & Engineering (2023–2027)** wi
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
 </p>
 
 <br/>
 
 ### Generative AI · Agents · APIs
 
-<p>
+<p align="center">
+
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
 </p>
 
 </div>
@@ -124,6 +156,8 @@ Currently pursuing **B.Tech in Computer Science & Engineering (2023–2027)** wi
 <br/>
 
 ---
+
+<br/>
 
 <h2 align="center">💼 Experience</h2>
 
@@ -133,9 +167,9 @@ Currently pursuing **B.Tech in Computer Science & Engineering (2023–2027)** wi
 
 <td width="20%" valign="top">
 
-**Jun 2026**  
-**–**  
-**Aug 2026**
+<b>Jun 2026</b><br/>
+<b>–</b><br/>
+<b>Aug 2026</b>
 
 </td>
 
@@ -161,9 +195,9 @@ Developed an **AI-powered academic research search application** combining retri
 
 <td width="20%" valign="top">
 
-**Apr 2026**  
-**–**  
-**Jun 2026**
+<b>Apr 2026</b><br/>
+<b>–</b><br/>
+<b>Jun 2026</b>
 
 </td>
 
@@ -190,9 +224,9 @@ Built **SkillSwap**, a MERN-based peer-to-peer skill exchange platform.
 
 <td width="20%" valign="top">
 
-**Jun 2025**  
-**–**  
-**Aug 2025**
+<b>Jun 2025</b><br/>
+<b>–</b><br/>
+<b>Aug 2025</b>
 
 </td>
 
@@ -219,9 +253,9 @@ Worked on Python-based data processing and machine-learning workflows.
 
 <td width="20%" valign="top">
 
-**Jul 2025**  
-**–**  
-**Dec 2025**
+<b>Jul 2025</b><br/>
+<b>–</b><br/>
+<b>Dec 2025</b>
 
 </td>
 
@@ -241,40 +275,57 @@ Organized **Generative AI and software-technology workshops** for 100+ students 
 
 ---
 
+<br/>
+
 <h2 align="center">🚀 Featured Projects</h2>
+
+<br/>
 
 <div align="center">
 
-<table width="92%">
+<table width="94%">
 
 <tr>
 
 <td width="50%" valign="top">
 
-### 🎯 AI-Powered Interview Preparation Platform
+<h3>🎯 AI-Powered Interview Preparation Platform</h3>
 
-**MERN · REST APIs · Gemini · JWT**
+<b>MERN · REST APIs · Gemini · JWT</b>
 
-Full-stack AI platform that analyzes a **resume + job description** and generates personalized interview preparation and resume optimization.
+<br/><br/>
 
-<br/>
+Full-stack AI platform that analyzes a <b>resume + job description</b> and generates personalized interview preparation and resume optimization.
 
-🔗 **[Repository](https://github.com/vastav-verma/Interview-AI)**  
-🌐 **[Live Demo](https://interview-ai-nu-tan.vercel.app)**
+<br/><br/>
+
+<a href="https://github.com/vastav-verma/Interview-AI">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://interview-ai-nu-tan.vercel.app">
+<img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📄 PaperPilot — AI Research Assistant
+<h3>📄 PaperPilot — AI Research Assistant</h3>
 
-**Python · LangChain · FAISS · Sentence Transformers**
+<b>Python · LangChain · FAISS · Sentence Transformers</b>
 
-AI research assistant capable of **semantic search, summarization, comparison and filtering** across 50,000+ research papers.
+<br/><br/>
 
-<br/>
+AI research assistant capable of <b>semantic search, summarization, comparison and filtering</b> across 50,000+ research papers.
 
-🔗 **[Repository](https://github.com/vastav-verma/PaperPilot)**
+<br/><br/>
+
+<a href="https://github.com/vastav-verma/PaperPilot">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -288,20 +339,29 @@ AI research assistant capable of **semantic search, summarization, comparison an
 
 <td width="50%" valign="top">
 
-### 📉 Telco Churn & Segmentation
+<h3>📉 Telco Churn & Segmentation</h3>
 
-**Python · scikit-learn · Streamlit**
-
-Machine-learning system combining **Random Forest classification + K-Means clustering** across 7,000+ customer records.
-
-<br/>
-
-**~0.84 ROC-AUC · ~0.78 Churn Recall**
+<b>Python · scikit-learn · Streamlit</b>
 
 <br/><br/>
 
-🔗 **[Repository](https://github.com/vastav-verma/Customer_Churn_-_Customer_Segmentation)**  
-🌐 **[Live Demo](https://customerchurnandsegmentation1.streamlit.app/)**
+Machine-learning system combining <b>Random Forest classification + K-Means clustering</b> across 7,000+ customer records.
+
+<br/><br/>
+
+<b>~0.84 ROC-AUC · ~0.78 Churn Recall</b>
+
+<br/><br/>
+
+<a href="https://github.com/vastav-verma/Customer_Churn_-_Customer_Segmentation">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://customerchurnandsegmentation1.streamlit.app/">
+<img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
 
 </td>
 
@@ -321,7 +381,11 @@ Machine-learning system combining **Random Forest classification + K-Means clust
 
 ---
 
+<br/>
+
 <h2 align="center">📊 GitHub Activity</h2>
+
+<br/>
 
 <div align="center">
 
@@ -343,6 +407,8 @@ Machine-learning system combining **Random Forest classification + K-Means clust
 
 ---
 
+<br/>
+
 <h2 align="center">🏆 Achievements</h2>
 
 <div align="center">
@@ -354,6 +420,8 @@ Machine-learning system combining **Random Forest classification + K-Means clust
 <br/>
 
 ---
+
+<br/>
 
 <h2 align="center">🎓 Education</h2>
 
@@ -367,65 +435,43 @@ Machine-learning system combining **Random Forest classification + K-Means clust
 
 ---
 
+<br/>
+
 <div align="center">
 
 <h2>📬 Let's Connect</h2>
 
-<table width="65%">
-
-<tr>
-
-<td align="center" width="33%">
-
-<a href="mailto:mamtavastavverma@gmail.com">
-
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="26"/>
-
-<br/><br/>
-
-<b>Email</b>
-
-</a>
-
-</td>
-
-<td align="center" width="33%">
-
-<a href="https://www.linkedin.com/in/vastav-verma/">
-
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="26"/>
-
-<br/><br/>
-
-<b>LinkedIn</b>
-
-</a>
-
-</td>
-
-<td align="center" width="33%">
-
-<a href="https://github.com/vastav-verma">
-
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="26"/>
-
-<br/><br/>
-
-<b>GitHub</b>
-
-</a>
-
-</td>
-
-</tr>
-
-</table>
+<p>
+<sub>
+Interested in software engineering, AI/ML, data science, or building something together?
+</sub>
+</p>
 
 <br/>
 
-<b>Open to Software Engineering · AI/ML · Data Science opportunities</b>
+<a href="mailto:mamtavastavverma@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/vastav-verma/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/vastav-verma">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br/><br/>
+
+<p>
+<b>Open to Software Engineering · AI/ML · Data Science opportunities</b>
+</p>
+
+<br/>
 
 <img src="assets/banner.svg" width="100%"/>
 
