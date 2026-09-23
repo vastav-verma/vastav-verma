@@ -181,13 +181,11 @@ Currently pursuing **B.Tech in Computer Science & Engineering (2023–2027)** wi
 
 <td valign="top">
 
-### 🟠 AI Engineer Intern · Coding Blocks School of Technology
+<b>🟠 AI Engineer Intern — Coding Blocks School of Technology (CBSOT)</b>
 
-Developed an **AI-powered academic research search application** combining retrieval, natural-language query processing, and LLM-based reasoning.
+<br/>
 
-• Designed preprocessing and indexing workflows  
-• Built searchable research-content pipelines  
-• Worked on retrieval + AI reasoning workflows
+Developed an **AI-powered academic research search application** combining retrieval, natural-language query processing, and LLM-based reasoning. Designed preprocessing and indexing workflows for searchable research content.
 
 </td>
 
@@ -209,14 +207,11 @@ Developed an **AI-powered academic research search application** combining retri
 
 <td valign="top">
 
-### 🟢 Software Development Intern · Sacred Mind Infotech
+<b>🟢 Software Development Intern — Sacred Mind Infotech</b>
 
-Built **SkillSwap**, a MERN-based peer-to-peer skill exchange platform.
+<br/>
 
-• Developed responsive React.js interfaces  
-• Built Node.js + Express.js backend services  
-• Integrated MongoDB and REST APIs  
-• Implemented authentication, profiles and skill-exchange workflows
+Built <i>SkillSwap</i>, a MERN-based peer-to-peer skill exchange platform. Developed responsive React.js frontend and Node.js/Express.js backend with MongoDB; implemented REST APIs for authentication, profiles, and skill-exchange workflows.
 
 </td>
 
@@ -238,14 +233,11 @@ Built **SkillSwap**, a MERN-based peer-to-peer skill exchange platform.
 
 <td valign="top">
 
-### 🔵 Data Science Intern · Ducat India
+<b>🔵 Data Science Intern — Ducat India</b>
 
-Worked on Python-based data processing and machine-learning workflows.
+<br/>
 
-• Pandas + NumPy based data processing  
-• Missing-value handling and encoding  
-• Normalization and feature engineering  
-• Built reusable preprocessing pipelines
+Built Python-based data processing and ML solutions using Pandas, NumPy & scikit-learn for real-world datasets; implemented reusable preprocessing workflows including missing-value handling, encoding, normalization, and feature engineering.
 
 </td>
 
@@ -267,9 +259,11 @@ Worked on Python-based data processing and machine-learning workflows.
 
 <td valign="top">
 
-### 🟡 Google Gemini Student Ambassador · Google
+<b>🟡 Google Gemini Student Ambassador — Google</b>
 
-Organized **Generative AI and software-technology workshops** for 100+ students and collaborated with student teams on technical activities.
+<br/>
+
+Organized generative AI & software technology workshops for **100+ students**; collaborated with student teams on technical activities.
 
 </td>
 
@@ -338,10 +332,6 @@ AI research assistant capable of <b>semantic search, summarization, comparison a
 </tr>
 
 <tr>
-<td colspan="2"><br/></td>
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -373,7 +363,7 @@ Machine-learning system combining <b>Random Forest classification + K-Means clus
 
 <td width="50%" align="center" valign="middle">
 
-<img src="assets/project-lab.svg" width="95%" alt="More projects coming soon"/>
+<img src="assets/project-lab.svg" width="430" alt="More projects coming soon"/>
 
 </td>
 
@@ -405,7 +395,9 @@ Machine-learning system combining <b>Random Forest classification + K-Means clus
 
 <h3>🐍 Contribution Snake</h3>
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/vastav-verma/vastav-verma/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+</p>
 
 </div>
 
