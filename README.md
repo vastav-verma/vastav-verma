@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=760\&lines=Software+Engineer;Data+Scientist+%7C+AI%2FML+Engineer;MERN+Stack+%7C+Python+%7C+LangChain;Ex-AI+Engineer+Intern+%40+CBSOT;9.22+CGPA+%7C+B.Tech+CSE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Software+Engineer;Data+Scientist+%7C+AI%2FML+Engineer;MERN+Stack+%7C+Python+%7C+LangChain;Ex-AI+Engineer+Intern+%40+CBSOT;9.22+CGPA+%7C+B.Tech+CSE)](https://git.io/typing-svg)
 
 <br/>
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 🧠 About Me
+<h2 align="center">🧠 About Me</h2>
 
 <table width="100%">
 <tr>
@@ -47,15 +47,15 @@ Currently pursuing **B.Tech in Computer Science & Engineering (2023–2027)** wi
 
 <br/>
 
-🔹 Strong foundation in **C++, DSA, OOP & DBMS**
-🔹 Full-stack development with **MERN**
-🔹 AI/ML development with **Python**
-🔹 Experience with **LLMs, RAG, LangChain & FAISS**
+🔹 Strong foundation in **C++, DSA, OOP & DBMS**  
+🔹 Full-stack development with **MERN**  
+🔹 AI/ML development with **Python**  
+🔹 Experience with **LLMs, RAG, LangChain & FAISS**  
 🔹 Interested in building **production-ready AI software**
 
 </td>
 
-<td width="35%" align="center">
+<td width="35%" align="center" valign="middle">
 
 <img src="assets/tech-orbit.svg" width="300"/>
 
@@ -72,15 +72,19 @@ Currently pursuing **B.Tech in Computer Science & Engineering (2023–2027)** wi
 
 ---
 
-## 🧩 Areas of Expertise
+<h2 align="center">🧩 Areas of Expertise</h2>
 
-<table width="100%">
+<div align="center">
+
+<table width="92%">
 <tr>
 
-<td width="20%" align="center">
+<td width="20%" align="center" valign="middle">
 
 **👨‍💻**<br/>
-**Software Engineering**
+<b>Software Engineering</b>
+
+<br/><br/>
 
 <sub>
 C++ · DSA · OOP<br/>
@@ -90,10 +94,12 @@ Backend Architecture
 
 </td>
 
-<td width="20%" align="center">
+<td width="20%" align="center" valign="middle">
 
 **🌐**<br/>
-**Full Stack**
+<b>Full Stack</b>
+
+<br/><br/>
 
 <sub>
 React.js · Node.js<br/>
@@ -103,10 +109,12 @@ JWT · REST APIs
 
 </td>
 
-<td width="20%" align="center">
+<td width="20%" align="center" valign="middle">
 
 **🤖**<br/>
-**AI / ML**
+<b>AI / ML</b>
+
+<br/><br/>
 
 <sub>
 Machine Learning<br/>
@@ -116,10 +124,12 @@ LLM Integration
 
 </td>
 
-<td width="20%" align="center">
+<td width="20%" align="center" valign="middle">
 
 **📊**<br/>
-**Data Science**
+<b>Data Science</b>
+
+<br/><br/>
 
 <sub>
 Pandas · NumPy<br/>
@@ -129,10 +139,12 @@ Predictive Modeling
 
 </td>
 
-<td width="20%" align="center">
+<td width="20%" align="center" valign="middle">
 
 **📈**<br/>
-**Data & BI**
+<b>Data & BI</b>
+
+<br/><br/>
 
 <sub>
 SQL · MySQL<br/>
@@ -147,13 +159,11 @@ Data Visualization
 
 <br/>
 
-<div align="center">
-
-<img src="assets/terminal.svg" width="600"/>
+<img src="assets/terminal.svg" width="560"/>
 
 <br/><br/>
 
-<img src="assets/skills-bars.svg" width="600"/>
+<img src="assets/skills-bars.svg" width="560"/>
 
 </div>
 
@@ -161,7 +171,7 @@ Data Visualization
 
 ---
 
-## 🛠️ Tech Arsenal
+<h2 align="center">🛠️ Tech Arsenal</h2>
 
 <div align="center">
 
@@ -202,7 +212,7 @@ Data Visualization
 
 ---
 
-## 💼 Experience
+<h2 align="center">💼 Experience</h2>
 
 <table width="100%">
 
@@ -210,8 +220,8 @@ Data Visualization
 
 <td width="20%" valign="top">
 
-**Jun 2026**
-**–**
+**Jun 2026**  
+**–**  
 **Aug 2026**
 
 </td>
@@ -222,8 +232,8 @@ Data Visualization
 
 Developed an **AI-powered academic research search application** combining retrieval, natural-language query processing, and LLM-based reasoning.
 
-• Designed preprocessing and indexing workflows
-• Built searchable research-content pipelines
+• Designed preprocessing and indexing workflows  
+• Built searchable research-content pipelines  
 • Worked on retrieval + AI reasoning workflows
 
 </td>
@@ -238,8 +248,8 @@ Developed an **AI-powered academic research search application** combining retri
 
 <td width="20%" valign="top">
 
-**Apr 2026**
-**–**
+**Apr 2026**  
+**–**  
 **Jun 2026**
 
 </td>
@@ -250,9 +260,9 @@ Developed an **AI-powered academic research search application** combining retri
 
 Built **SkillSwap**, a MERN-based peer-to-peer skill exchange platform.
 
-• Developed responsive React.js interfaces
-• Built Node.js + Express.js backend services
-• Integrated MongoDB and REST APIs
+• Developed responsive React.js interfaces  
+• Built Node.js + Express.js backend services  
+• Integrated MongoDB and REST APIs  
 • Implemented authentication, profiles and skill-exchange workflows
 
 </td>
@@ -267,8 +277,8 @@ Built **SkillSwap**, a MERN-based peer-to-peer skill exchange platform.
 
 <td width="20%" valign="top">
 
-**Jun 2025**
-**–**
+**Jun 2025**  
+**–**  
 **Aug 2025**
 
 </td>
@@ -279,9 +289,9 @@ Built **SkillSwap**, a MERN-based peer-to-peer skill exchange platform.
 
 Worked on Python-based data processing and machine-learning workflows.
 
-• Pandas + NumPy based data processing
-• Missing-value handling and encoding
-• Normalization and feature engineering
+• Pandas + NumPy based data processing  
+• Missing-value handling and encoding  
+• Normalization and feature engineering  
 • Built reusable preprocessing pipelines
 
 </td>
@@ -296,8 +306,8 @@ Worked on Python-based data processing and machine-learning workflows.
 
 <td width="20%" valign="top">
 
-**Jul 2025**
-**–**
+**Jul 2025**  
+**–**  
 **Dec 2025**
 
 </td>
@@ -318,9 +328,11 @@ Organized **Generative AI and software-technology workshops** for 100+ students 
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-<table width="100%">
+<div align="center">
+
+<table width="92%">
 
 <tr>
 
@@ -334,7 +346,7 @@ Full-stack AI platform that analyzes a **resume + job description** and generate
 
 <br/>
 
-🔗 **[Repository](https://github.com/vastav-verma/Interview-AI)**
+🔗 **[Repository](https://github.com/vastav-verma/Interview-AI)**  
 🌐 **[Live Demo](https://interview-ai-nu-tan.vercel.app)**
 
 </td>
@@ -375,7 +387,7 @@ Machine-learning system combining **Random Forest classification + K-Means clust
 
 <br/><br/>
 
-🔗 **[Repository](https://github.com/vastav-verma/Customer_Churn_-_Customer_Segmentation)**
+🔗 **[Repository](https://github.com/vastav-verma/Customer_Churn_-_Customer_Segmentation)**  
 🌐 **[Live Demo](https://customerchurnandsegmentation1.streamlit.app/)**
 
 </td>
@@ -390,11 +402,13 @@ Machine-learning system combining **Random Forest classification + K-Means clust
 
 </table>
 
+</div>
+
 <br/>
 
 ---
 
-## 📊 GitHub Activity
+<h2 align="center">📊 GitHub Activity</h2>
 
 <div align="center">
 
@@ -404,13 +418,9 @@ Machine-learning system combining **Random Forest classification + K-Means clust
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-### 🐍 Contribution Snake
-
-<div align="center">
+<h3>🐍 Contribution Snake</h3>
 
 <img src="https://raw.githubusercontent.com/vastav-verma/vastav-verma/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
 
@@ -420,91 +430,94 @@ Machine-learning system combining **Random Forest classification + K-Means clust
 
 ---
 
-## 🏆 Achievements
+<h2 align="center">🏆 Achievements</h2>
 
-<table width="100%">
+<div align="center">
 
+<table width="82%">
 <tr>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="middle">
 
 🥇
 
-<br/>
+<br/><br/>
 
-**ISTE Best Student Award**
+<b>ISTE Best Student Award</b>
 
-<br/>
+<br/><br/>
 
 <sub>2026</sub>
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="middle">
 
 🥈
 
-<br/>
+<br/><br/>
 
-**Brand Sense AI Competition**
+<b>Brand Sense AI Competition</b>
 
-<br/>
+<br/><br/>
 
 <sub>2nd Position</sub>
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="middle">
 
 🔟
 
-<br/>
+<br/><br/>
 
-**Hacksphere 2.0**
+<b>Hacksphere 2.0</b>
 
-<br/>
+<br/><br/>
 
 <sub>Top 10 Teams</sub>
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="middle">
 
 🏅
 
-<br/>
+<br/><br/>
 
-**Paranox 2.0**
+<b>Paranox 2.0</b>
 
-<br/>
+<br/><br/>
 
 <sub>Top 200 Teams</sub>
 
 </td>
 
 </tr>
-
 </table>
+
+</div>
 
 <br/>
 
 ---
 
-## 🎓 Education
+<h2 align="center">🎓 Education</h2>
 
 <div align="center">
 
-<table width="90%">
-
+<table width="70%">
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 
 ### 🎓 B.Tech CSE
 
 **PCTE Group of Institutes, Ludhiana**
 
-2023 – 2027
+<br/>
+
+<sub>2023 – 2027</sub>
 
 <br/><br/>
 
@@ -512,13 +525,15 @@ Machine-learning system combining **Random Forest classification + K-Means clust
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 
 ### 🏫 Higher Secondary
 
 **Shifaly International School**
 
-2022 – 2023
+<br/>
+
+<sub>2022 – 2023</sub>
 
 <br/><br/>
 
@@ -527,7 +542,6 @@ Machine-learning system combining **Random Forest classification + K-Means clust
 </td>
 
 </tr>
-
 </table>
 
 </div>
@@ -538,9 +552,9 @@ Machine-learning system combining **Random Forest classification + K-Means clust
 
 <div align="center">
 
-## 📬 Let's Connect
+<h2>📬 Let's Connect</h2>
 
-<table width="75%">
+<table width="65%">
 
 <tr>
 
@@ -550,7 +564,7 @@ Machine-learning system combining **Random Forest classification + K-Means clust
 
 <img src="https://cdn.simpleicons.org/gmail/EA4335" width="26"/>
 
-<br/>
+<br/><br/>
 
 <b>Email</b>
 
@@ -564,7 +578,7 @@ Machine-learning system combining **Random Forest classification + K-Means clust
 
 <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="26"/>
 
-<br/>
+<br/><br/>
 
 <b>LinkedIn</b>
 
@@ -578,7 +592,7 @@ Machine-learning system combining **Random Forest classification + K-Means clust
 
 <img src="https://cdn.simpleicons.org/github/FFFFFF" width="26"/>
 
-<br/>
+<br/><br/>
 
 <b>GitHub</b>
 
@@ -592,7 +606,7 @@ Machine-learning system combining **Random Forest classification + K-Means clust
 
 <br/>
 
-**Open to Software Engineering · AI/ML · Data Science opportunities**
+<b>Open to Software Engineering · AI/ML · Data Science opportunities</b>
 
 <br/><br/>
 
