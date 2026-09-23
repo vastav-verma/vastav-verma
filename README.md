@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=760\&lines=Software+Engineer;Data+Scientist+%7C+AI%2FML+Engineer;MERN+Stack+%7C+Python+%7C+LangChain;Ex-AI+Engineer+Intern+%40+CBSOT;9.22+CGPA+%7C+B.Tech+CSE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Software+Engineer;Data+Scientist+%7C+AI%2FML+Engineer;MERN+Stack+%7C+Python+%7C+LangChain;Ex-AI+Engineer+Intern+%40+CBSOT;9.22+CGPA+%7C+B.Tech+CSE)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,19 +14,33 @@
   <img src="https://img.shields.io/badge/Location-Ludhiana%2C%20Punjab%2C%20India-ff7b54?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <a href="mailto:mamtavastavverma@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vastav-verma/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/vastav-verma">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" height="32" alt="GitHub"/>
-  </a>
-</p>
+<table align="center">
+<tr>
+
+<td align="center" bgcolor="#EA4335">
+<a href="mailto:mamtavastavverma@gmail.com">
+<font color="white"><b>✉️ Email</b></font>
+</a>
+</td>
+
+<td width="8"></td>
+
+<td align="center" bgcolor="#0A66C2">
+<a href="https://www.linkedin.com/in/vastav-verma/">
+<font color="white"><b>💼 LinkedIn</b></font>
+</a>
+</td>
+
+<td width="8"></td>
+
+<td align="center" bgcolor="#181717">
+<a href="https://github.com/vastav-verma">
+<font color="white"><b>🐙 GitHub</b></font>
+</a>
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -49,10 +63,10 @@ Currently pursuing **B.Tech in Computer Science & Engineering (2023–2027)** wi
 
 <br/>
 
-🔹 Strong foundation in **C++, DSA, OOP & DBMS**
-🔹 Full-stack development with **MERN**
-🔹 AI/ML development with **Python**
-🔹 Experience with **LLMs, RAG, LangChain & FAISS**
+🔹 Strong foundation in **C++, DSA, OOP & DBMS**  
+🔹 Full-stack development with **MERN**  
+🔹 AI/ML development with **Python**  
+🔹 Experience with **LLMs, RAG, LangChain & FAISS**  
 🔹 Interested in building **production-ready AI software**
 
 </td>
@@ -161,7 +175,9 @@ Currently pursuing **B.Tech in Computer Science & Engineering (2023–2027)** wi
 
 <td width="20%" valign="top">
 
-<b>Jun 2026</b><br/> <b>–</b><br/> <b>Aug 2026</b>
+<b>Jun 2026</b><br/>
+<b>–</b><br/>
+<b>Aug 2026</b>
 
 </td>
 
@@ -171,8 +187,8 @@ Currently pursuing **B.Tech in Computer Science & Engineering (2023–2027)** wi
 
 Developed an **AI-powered academic research search application** combining retrieval, natural-language query processing, and LLM-based reasoning.
 
-• Designed preprocessing and indexing workflows
-• Built searchable research-content pipelines
+• Designed preprocessing and indexing workflows  
+• Built searchable research-content pipelines  
 • Worked on retrieval + AI reasoning workflows
 
 </td>
@@ -187,7 +203,9 @@ Developed an **AI-powered academic research search application** combining retri
 
 <td width="20%" valign="top">
 
-<b>Apr 2026</b><br/> <b>–</b><br/> <b>Jun 2026</b>
+<b>Apr 2026</b><br/>
+<b>–</b><br/>
+<b>Jun 2026</b>
 
 </td>
 
@@ -197,9 +215,9 @@ Developed an **AI-powered academic research search application** combining retri
 
 Built **SkillSwap**, a MERN-based peer-to-peer skill exchange platform.
 
-• Developed responsive React.js interfaces
-• Built Node.js + Express.js backend services
-• Integrated MongoDB and REST APIs
+• Developed responsive React.js interfaces  
+• Built Node.js + Express.js backend services  
+• Integrated MongoDB and REST APIs  
 • Implemented authentication, profiles and skill-exchange workflows
 
 </td>
@@ -214,7 +232,9 @@ Built **SkillSwap**, a MERN-based peer-to-peer skill exchange platform.
 
 <td width="20%" valign="top">
 
-<b>Jun 2025</b><br/> <b>–</b><br/> <b>Aug 2025</b>
+<b>Jun 2025</b><br/>
+<b>–</b><br/>
+<b>Aug 2025</b>
 
 </td>
 
@@ -224,9 +244,9 @@ Built **SkillSwap**, a MERN-based peer-to-peer skill exchange platform.
 
 Worked on Python-based data processing and machine-learning workflows.
 
-• Pandas + NumPy based data processing
-• Missing-value handling and encoding
-• Normalization and feature engineering
+• Pandas + NumPy based data processing  
+• Missing-value handling and encoding  
+• Normalization and feature engineering  
 • Built reusable preprocessing pipelines
 
 </td>
@@ -241,7 +261,9 @@ Worked on Python-based data processing and machine-learning workflows.
 
 <td width="20%" valign="top">
 
-<b>Jul 2025</b><br/> <b>–</b><br/> <b>Dec 2025</b>
+<b>Jul 2025</b><br/>
+<b>–</b><br/>
+<b>Dec 2025</b>
 
 </td>
 
@@ -269,7 +291,7 @@ Organized **Generative AI and software-technology workshops** for 100+ students 
 
 <div align="center">
 
-<table width="94%" cellpadding="4" cellspacing="0">
+<table width="94%">
 
 <tr>
 
@@ -288,7 +310,9 @@ Full-stack AI platform that analyzes a <b>resume + job description</b> and gener
 <a href="https://github.com/vastav-verma/Interview-AI">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 &nbsp;
+
 <a href="https://interview-ai-nu-tan.vercel.app">
 <img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -336,7 +360,9 @@ Machine-learning system combining <b>Random Forest classification + K-Means clus
 <a href="https://github.com/vastav-verma/Customer_Churn_-_Customer_Segmentation">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 &nbsp;
+
 <a href="https://customerchurnandsegmentation1.streamlit.app/">
 <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
@@ -427,19 +453,33 @@ Interested in software engineering, AI/ML, data science, or building something t
 
 <br/>
 
-<p align="center">
-  <a href="mailto:mamtavastavverma@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vastav-verma/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/vastav-verma">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="36" height="36" alt="GitHub"/>
-  </a>
-</p>
+<table align="center">
+<tr>
+
+<td align="center" bgcolor="#EA4335">
+<a href="mailto:mamtavastavverma@gmail.com">
+<font color="white"><b>✉️ Email</b></font>
+</a>
+</td>
+
+<td width="8"></td>
+
+<td align="center" bgcolor="#0A66C2">
+<a href="https://www.linkedin.com/in/vastav-verma/">
+<font color="white"><b>💼 LinkedIn</b></font>
+</a>
+</td>
+
+<td width="8"></td>
+
+<td align="center" bgcolor="#181717">
+<a href="https://github.com/vastav-verma">
+<font color="white"><b>🐙 GitHub</b></font>
+</a>
+</td>
+
+</tr>
+</table>
 
 <br/>
 
