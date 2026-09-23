@@ -14,33 +14,25 @@
   <img src="https://img.shields.io/badge/Location-Ludhiana%2C%20Punjab%2C%20India-ff7b54?style=for-the-badge"/>
 </p>
 
-<table>
-<tr>
+<p align="center">
 
-<td align="center">
 <a href="mailto:mamtavastavverma@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-</td>
 
-<td width="12"></td>
+&nbsp;
 
-<td align="center">
 <a href="https://www.linkedin.com/in/vastav-verma/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-</td>
 
-<td width="12"></td>
+&nbsp;
 
-<td align="center">
 <a href="https://github.com/vastav-verma">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
-</td>
 
-</tr>
-</table>
+</p>
 
 </div>
 
@@ -124,13 +116,15 @@ Currently pursuing **B.Tech in Computer Science & Engineering (2023–2027)** wi
 
 <div align="center">
 
-<h3>Languages & Development</h3>
+### Languages & Development
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=py,cpp,c,js,react,nodejs,express,flask,mysql,mongodb,git,github,vscode&theme=dark"/>
 
 <br/><br/>
 
-<h3>Data Science · ML · Deep Learning</h3>
+### Data Science · ML · Deep Learning
 
 <p align="center">
 
@@ -146,7 +140,7 @@ Currently pursuing **B.Tech in Computer Science & Engineering (2023–2027)** wi
 
 <br/>
 
-<h3>Generative AI · Agents · APIs</h3>
+### Generative AI · Agents · APIs
 
 <p align="center">
 
@@ -181,11 +175,13 @@ Currently pursuing **B.Tech in Computer Science & Engineering (2023–2027)** wi
 
 <td valign="top">
 
-<b>🟠 AI Engineer Intern — Coding Blocks School of Technology (CBSOT)</b>
+### 🟠 AI Engineer Intern · Coding Blocks School of Technology
 
-<br/>
+Developed an **AI-powered academic research search application** combining retrieval, natural-language query processing, and LLM-based reasoning.
 
-Developed an **AI-powered academic research search application** combining retrieval, natural-language query processing, and LLM-based reasoning. Designed preprocessing and indexing workflows for searchable research content.
+• Designed preprocessing and indexing workflows  
+• Built searchable research-content pipelines  
+• Worked on retrieval + AI reasoning workflows
 
 </td>
 
@@ -207,11 +203,14 @@ Developed an **AI-powered academic research search application** combining retri
 
 <td valign="top">
 
-<b>🟢 Software Development Intern — Sacred Mind Infotech</b>
+### 🟢 Software Development Intern · Sacred Mind Infotech
 
-<br/>
+Built **SkillSwap**, a MERN-based peer-to-peer skill exchange platform.
 
-Built <i>SkillSwap</i>, a MERN-based peer-to-peer skill exchange platform. Developed responsive React.js frontend and Node.js/Express.js backend with MongoDB; implemented REST APIs for authentication, profiles, and skill-exchange workflows.
+• Developed responsive React.js interfaces  
+• Built Node.js + Express.js backend services  
+• Integrated MongoDB and REST APIs  
+• Implemented authentication, profiles and skill-exchange workflows
 
 </td>
 
@@ -233,11 +232,14 @@ Built <i>SkillSwap</i>, a MERN-based peer-to-peer skill exchange platform. Devel
 
 <td valign="top">
 
-<b>🔵 Data Science Intern — Ducat India</b>
+### 🔵 Data Science Intern · Ducat India
 
-<br/>
+Worked on Python-based data processing and machine-learning workflows.
 
-Built Python-based data processing and ML solutions using Pandas, NumPy & scikit-learn for real-world datasets; implemented reusable preprocessing workflows including missing-value handling, encoding, normalization, and feature engineering.
+• Pandas + NumPy based data processing  
+• Missing-value handling and encoding  
+• Normalization and feature engineering  
+• Built reusable preprocessing pipelines
 
 </td>
 
@@ -259,11 +261,9 @@ Built Python-based data processing and ML solutions using Pandas, NumPy & scikit
 
 <td valign="top">
 
-<b>🟡 Google Gemini Student Ambassador — Google</b>
+### 🟡 Google Gemini Student Ambassador · Google
 
-<br/>
-
-Organized generative AI & software technology workshops for **100+ students**; collaborated with student teams on technical activities.
+Organized **Generative AI and software-technology workshops** for 100+ students and collaborated with student teams on technical activities.
 
 </td>
 
@@ -332,6 +332,10 @@ AI research assistant capable of <b>semantic search, summarization, comparison a
 </tr>
 
 <tr>
+<td colspan="2"><br/></td>
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -363,7 +367,7 @@ Machine-learning system combining <b>Random Forest classification + K-Means clus
 
 <td width="50%" align="center" valign="middle">
 
-<img src="assets/project-lab.svg" width="430" alt="More projects coming soon"/>
+<img src="assets/project-lab.svg" width="95%" alt="More projects coming soon"/>
 
 </td>
 
@@ -395,9 +399,7 @@ Machine-learning system combining <b>Random Forest classification + K-Means clus
 
 <h3>🐍 Contribution Snake</h3>
 
-<p align="center">
 <img src="https://raw.githubusercontent.com/vastav-verma/vastav-verma/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
-</p>
 
 </div>
 
@@ -440,46 +442,36 @@ Machine-learning system combining <b>Random Forest classification + K-Means clus
 <h2>📬 Let's Connect</h2>
 
 <p>
-  <sub>
-    Interested in software engineering, AI/ML, data science, or building something together?
-  </sub>
+<sub>
+Interested in software engineering, AI/ML, data science, or building something together?
+</sub>
 </p>
 
 <br/>
 
-<table>
-<tr>
-
-<td align="center">
 <a href="mailto:mamtavastavverma@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</td>
 
-<td width="20"></td>
+&nbsp;&nbsp;
 
-<td align="center">
 <a href="https://www.linkedin.com/in/vastav-verma/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</td>
 
-<td width="20"></td>
+&nbsp;&nbsp;
 
-<td align="center">
 <a href="https://github.com/vastav-verma">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<b>Open to Software Engineering · AI/ML · Data Science opportunities</b>
 
 <br/><br/>
+
+<p>
+<b>Open to Software Engineering · AI/ML · Data Science opportunities</b>
+</p>
+
+<br/>
 
 <img src="assets/banner.svg" width="100%"/>
 
