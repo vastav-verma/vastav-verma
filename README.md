@@ -2,31 +2,31 @@
 
 <img src="assets/banner.svg" width="100%"/>
 
-<br/>
+<br/><br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=760\&lines=Software+Engineer;Data+Scientist+%7C+AI%2FML+Engineer;MERN+Stack+%7C+Python+%7C+LangChain;Ex-AI+Engineer+Intern+%40+CBSOT;9.22+CGPA+%7C+B.Tech+CSE)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=vastav-verma&label=Profile%20Views&color=58a6ff&style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/vastav-verma?label=Followers&style=for-the-badge&color=a371f7"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Location-Ludhiana%2C%20Punjab%2C%20India-ff7b54?style=for-the-badge"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=vastav-verma&label=Profile%20Views&color=58a6ff&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/vastav-verma?label=Followers&style=for-the-badge&color=a371f7"/>
+  <img src="https://img.shields.io/badge/Location-Ludhiana%2C%20Punjab%2C%20India-ff7b54?style=for-the-badge"/>
+</p>
 
-<br/><br/>
-
-<a href="mailto:mamtavastavverma@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="22"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/vastav-verma/">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/vastav-verma">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="22"/>
-</a>
+<p>
+  <a href="mailto:mamtavastavverma@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="22"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vastav-verma/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/vastav-verma">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="22"/>
+  </a>
+</p>
 
 </div>
 
@@ -34,9 +34,10 @@
 
 ## 🧠 About Me
 
-<table>
+<table width="100%">
 <tr>
-<td width="65%">
+
+<td width="65%" valign="middle">
 
 I'm a **Software Engineer at heart**, passionate about building scalable software, intelligent applications, and practical AI-powered systems.
 
@@ -63,20 +64,22 @@ Currently pursuing **B.Tech in Computer Science & Engineering (2023–2027)** wi
 <sub><b>Building at the intersection of<br/>Software × Data × AI</b></sub>
 
 </td>
+
 </tr>
 </table>
 
+<br/>
+
 ---
 
-## 🧩 What I Work With
+## 🧩 Areas of Expertise
 
 <table width="100%">
 <tr>
 
-<td align="center" width="20%">
+<td width="20%" align="center">
 
-### 👨‍💻
-
+**👨‍💻**<br/>
 **Software Engineering**
 
 <sub>
@@ -87,10 +90,9 @@ Backend Architecture
 
 </td>
 
-<td align="center" width="20%">
+<td width="20%" align="center">
 
-### 🌐
-
+**🌐**<br/>
 **Full Stack**
 
 <sub>
@@ -101,10 +103,9 @@ JWT · REST APIs
 
 </td>
 
-<td align="center" width="20%">
+<td width="20%" align="center">
 
-### 🤖
-
+**🤖**<br/>
 **AI / ML**
 
 <sub>
@@ -115,10 +116,9 @@ LLM Integration
 
 </td>
 
-<td align="center" width="20%">
+<td width="20%" align="center">
 
-### 📊
-
+**📊**<br/>
 **Data Science**
 
 <sub>
@@ -129,10 +129,9 @@ Predictive Modeling
 
 </td>
 
-<td align="center" width="20%">
+<td width="20%" align="center">
 
-### 📈
-
+**📈**<br/>
 **Data & BI**
 
 <sub>
@@ -158,13 +157,17 @@ Data Visualization
 
 </div>
 
+<br/>
+
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
 ### Languages & Development
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=py,cpp,c,js,react,nodejs,express,flask,mysql,mongodb,git,github,vscode&theme=dark"/>
 
@@ -172,6 +175,7 @@ Data Visualization
 
 ### Data Science · ML · Deep Learning
 
+<p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -179,17 +183,22 @@ Data Visualization
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
-<br/><br/>
+<br/>
 
 ### Generative AI · Agents · APIs
 
+<p>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
 </div>
+
+<br/>
 
 ---
 
@@ -198,6 +207,7 @@ Data Visualization
 <table width="100%">
 
 <tr>
+
 <td width="20%" valign="top">
 
 **Jun 2026**
@@ -206,9 +216,9 @@ Data Visualization
 
 </td>
 
-<td>
+<td valign="top">
 
-### 🟠 AI Engineer Intern · CBSOT
+### 🟠 AI Engineer Intern · Coding Blocks School of Technology
 
 Developed an **AI-powered academic research search application** combining retrieval, natural-language query processing, and LLM-based reasoning.
 
@@ -217,6 +227,7 @@ Developed an **AI-powered academic research search application** combining retri
 • Worked on retrieval + AI reasoning workflows
 
 </td>
+
 </tr>
 
 <tr>
@@ -224,6 +235,7 @@ Developed an **AI-powered academic research search application** combining retri
 </tr>
 
 <tr>
+
 <td width="20%" valign="top">
 
 **Apr 2026**
@@ -232,7 +244,7 @@ Developed an **AI-powered academic research search application** combining retri
 
 </td>
 
-<td>
+<td valign="top">
 
 ### 🟢 Software Development Intern · Sacred Mind Infotech
 
@@ -244,6 +256,7 @@ Built **SkillSwap**, a MERN-based peer-to-peer skill exchange platform.
 • Implemented authentication, profiles and skill-exchange workflows
 
 </td>
+
 </tr>
 
 <tr>
@@ -251,6 +264,7 @@ Built **SkillSwap**, a MERN-based peer-to-peer skill exchange platform.
 </tr>
 
 <tr>
+
 <td width="20%" valign="top">
 
 **Jun 2025**
@@ -259,7 +273,7 @@ Built **SkillSwap**, a MERN-based peer-to-peer skill exchange platform.
 
 </td>
 
-<td>
+<td valign="top">
 
 ### 🔵 Data Science Intern · Ducat India
 
@@ -271,6 +285,7 @@ Worked on Python-based data processing and machine-learning workflows.
 • Built reusable preprocessing pipelines
 
 </td>
+
 </tr>
 
 <tr>
@@ -278,6 +293,7 @@ Worked on Python-based data processing and machine-learning workflows.
 </tr>
 
 <tr>
+
 <td width="20%" valign="top">
 
 **Jul 2025**
@@ -286,16 +302,19 @@ Worked on Python-based data processing and machine-learning workflows.
 
 </td>
 
-<td>
+<td valign="top">
 
 ### 🟡 Google Gemini Student Ambassador · Google
 
 Organized **Generative AI and software-technology workshops** for 100+ students and collaborated with student teams on technical activities.
 
 </td>
+
 </tr>
 
 </table>
+
+<br/>
 
 ---
 
@@ -304,30 +323,36 @@ Organized **Generative AI and software-technology workshops** for 100+ students 
 <table width="100%">
 
 <tr>
+
 <td width="50%" valign="top">
 
-### 🎯 AI Interview Preparation Platform
+### 🎯 AI-Powered Interview Preparation Platform
 
 **MERN · REST APIs · Gemini · JWT**
 
 Full-stack AI platform that analyzes a **resume + job description** and generates personalized interview preparation and resume optimization.
 
-🔗 [Repository](https://github.com/vastav-verma/Interview-AI)
-🌐 [Live Demo](https://interview-ai-nu-tan.vercel.app)
+<br/>
+
+🔗 **[Repository](https://github.com/vastav-verma/Interview-AI)**
+🌐 **[Live Demo](https://interview-ai-nu-tan.vercel.app)**
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📄 PaperPilot
+### 📄 PaperPilot — AI Research Assistant
 
 **Python · LangChain · FAISS · Sentence Transformers**
 
 AI research assistant capable of **semantic search, summarization, comparison and filtering** across 50,000+ research papers.
 
-🔗 [Repository](https://github.com/vastav-verma/PaperPilot)
+<br/>
+
+🔗 **[Repository](https://github.com/vastav-verma/PaperPilot)**
 
 </td>
+
 </tr>
 
 <tr>
@@ -335,6 +360,7 @@ AI research assistant capable of **semantic search, summarization, comparison an
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 📉 Telco Churn & Segmentation
@@ -343,23 +369,28 @@ AI research assistant capable of **semantic search, summarization, comparison an
 
 Machine-learning system combining **Random Forest classification + K-Means clustering** across 7,000+ customer records.
 
+<br/>
+
 **~0.84 ROC-AUC · ~0.78 Churn Recall**
 
-🔗 [Repository](https://github.com/vastav-verma/Customer_Churn_-_Customer_Segmentation)
-🌐 [Live Demo](https://customerchurnandsegmentation1.streamlit.app/)
+<br/><br/>
+
+🔗 **[Repository](https://github.com/vastav-verma/Customer_Churn_-_Customer_Segmentation)**
+🌐 **[Live Demo](https://customerchurnandsegmentation1.streamlit.app/)**
 
 </td>
 
-<td width="50%" valign="middle" align="center">
+<td width="50%" align="center" valign="middle">
 
-<img src="assets/terminal.svg" width="85%"/>
-
-<sub><b>More projects coming soon...</b></sub>
+<img src="assets/project-lab.svg" width="95%"/>
 
 </td>
+
 </tr>
 
 </table>
+
+<br/>
 
 ---
 
@@ -385,55 +416,77 @@ Machine-learning system combining **Random Forest classification + K-Means clust
 
 </div>
 
+<br/>
+
 ---
 
 ## 🏆 Achievements
 
 <table width="100%">
+
 <tr>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
 🥇
 
+<br/>
+
 **ISTE Best Student Award**
+
+<br/>
 
 <sub>2026</sub>
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
 🥈
 
+<br/>
+
 **Brand Sense AI Competition**
+
+<br/>
 
 <sub>2nd Position</sub>
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
 🔟
 
+<br/>
+
 **Hacksphere 2.0**
+
+<br/>
 
 <sub>Top 10 Teams</sub>
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
 🏅
 
+<br/>
+
 **Paranox 2.0**
+
+<br/>
 
 <sub>Top 200 Teams</sub>
 
 </td>
 
 </tr>
+
 </table>
+
+<br/>
 
 ---
 
@@ -453,7 +506,7 @@ Machine-learning system combining **Random Forest classification + K-Means clust
 
 2023 – 2027
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/CGPA-9.22-58a6ff?style=for-the-badge"/>
 
@@ -467,7 +520,7 @@ Machine-learning system combining **Random Forest classification + K-Means clust
 
 2022 – 2023
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/PCM-75%25-a371f7?style=for-the-badge"/>
 
@@ -479,11 +532,13 @@ Machine-learning system combining **Random Forest classification + K-Means clust
 
 </div>
 
+<br/>
+
 ---
 
-## 📬 Let's Connect
-
 <div align="center">
+
+## 📬 Let's Connect
 
 <table width="75%">
 
@@ -492,9 +547,13 @@ Machine-learning system combining **Random Forest classification + K-Means clust
 <td align="center" width="33%">
 
 <a href="mailto:mamtavastavverma@gmail.com">
+
 <img src="https://cdn.simpleicons.org/gmail/EA4335" width="26"/>
+
 <br/>
+
 <b>Email</b>
+
 </a>
 
 </td>
@@ -502,9 +561,13 @@ Machine-learning system combining **Random Forest classification + K-Means clust
 <td align="center" width="33%">
 
 <a href="https://www.linkedin.com/in/vastav-verma/">
+
 <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="26"/>
+
 <br/>
+
 <b>LinkedIn</b>
+
 </a>
 
 </td>
@@ -512,9 +575,13 @@ Machine-learning system combining **Random Forest classification + K-Means clust
 <td align="center" width="33%">
 
 <a href="https://github.com/vastav-verma">
+
 <img src="https://cdn.simpleicons.org/github/FFFFFF" width="26"/>
+
 <br/>
+
 <b>GitHub</b>
+
 </a>
 
 </td>
