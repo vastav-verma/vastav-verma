@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="assets/banner.svg" width="100%"/>
 
@@ -36,6 +36,14 @@
 <td align="center" bgcolor="#181717">
 <a href="https://github.com/vastav-verma">
 <font color="white"><b>🐙 GitHub</b></font>
+</a>
+</td>
+
+<td width="8"></td>
+
+<td align="center" bgcolor="#6C63FF">
+<a href="https://vastavvermaportfolio.vercel.app/">
+<font color="white"><b>🌐 Portfolio</b></font>
 </a>
 </td>
 
@@ -297,13 +305,46 @@ Organized **Generative AI and software-technology workshops** for 100+ students 
 
 <td width="50%" valign="top">
 
+<h3>🏫 CampusAI — AI-Powered Campus Grievance Management</h3>
+
+<b>MERN Stack · RAG · AI Chatbot · MongoDB · REST APIs</b>
+
+<br/><br/>
+
+A multi-tenant SaaS platform designed to simplify student grievance management and campus support. Students can submit complaints through an AI-powered chatbot that categorizes issues, assesses severity, and routes them to the appropriate staff for resolution.
+
+<br/><br/>
+
+• AI-powered complaint classification and severity detection  
+• RAG-based chatbot for college-specific queries and policies  
+• Multi-college architecture with tenant isolation  
+• Role-based access for students, staff, college admins and super admins  
+• Complaint tracking, resolution updates and proof of resolution  
+• College-specific knowledge base and document retrieval
+
+<br/><br/>
+
+<a href="https://github.com/vastav-verma/CAMPUS_AI">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://campus-ai-fawn.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
 <h3>🎯 AI-Powered Interview Preparation Platform</h3>
 
 <b>MERN · REST APIs · Gemini · JWT</b>
 
 <br/><br/>
 
-Full-stack AI platform that analyzes a <b>resume + job description</b> and generates personalized interview preparation and resume optimization.
+Full-stack AI platform that analyzes a <b>resume + job description</b> and generates personalized interview preparation, relevant questions, and resume optimization.
 
 <br/><br/>
 
@@ -318,6 +359,10 @@ Full-stack AI platform that analyzes a <b>resume + job description</b> and gener
 </a>
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -336,10 +381,6 @@ AI research assistant capable of <b>semantic search, summarization, comparison a
 </a>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -369,9 +410,13 @@ Machine-learning system combining <b>Random Forest classification + K-Means clus
 
 </td>
 
-<td width="50%" align="center" valign="middle">
+</tr>
 
-<img src="assets/project-lab.svg" width="95%" alt="More projects coming soon"/>
+<tr>
+
+<td colspan="2" align="center" valign="middle">
+
+<img src="assets/project-lab.svg" width="70%" alt="More projects coming soon"/>
 
 </td>
 
@@ -478,13 +523,21 @@ Interested in software engineering, AI/ML, data science, or building something t
 </a>
 </td>
 
+<td width="8"></td>
+
+<td align="center" bgcolor="#6C63FF">
+<a href="YOUR_PORTFOLIO_LINK">
+<font color="white"><b>🌐 Portfolio</b></font>
+</a>
+</td>
+
 </tr>
 </table>
 
 <br/>
 
 <p>
-<b>Open to Software Engineering · AI/ML · Data Science opportunities</b>
+<b>Open to Software Engineering · Full-Stack Development · AI/ML opportunities</b>
 </p>
 
 <br/>
